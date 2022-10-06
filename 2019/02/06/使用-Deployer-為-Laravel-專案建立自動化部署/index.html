@@ -16,7 +16,7 @@
 <meta property="og:description" content="環境 Ubuntu（遠端伺服器） macOS（本機）  遠端伺服器連線連線至遠端伺服器。 1sh ec2.sh  新增使用者新增 deployer 使用者。 1sudo adduser deployer --disabled-password   參數 --disabled-password 讓使用者無法使用密碼登入。  將 deployer 使用者加進 nginx 使用者所待的 www-data">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2019-02-05T16:42:17.000Z">
-<meta property="article:modified_time" content="2022-10-03T18:52:22.825Z">
+<meta property="article:modified_time" content="2022-10-06T17:26:45.231Z">
 <meta property="article:author" content="Memo Chou">
 <meta property="article:tag" content="Laravel">
 <meta property="article:tag" content="環境部署">
@@ -218,7 +218,7 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">touch</span> ~/.ssh/authorized_keys</span><br></pre></td></tr></table></figure>
 
 <p>將遠端伺服器的公有金鑰的內容複製到 <code>authorized_keys</code> 檔。</p>
-<figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-rsa ...</span><br></pre></td></tr></table></figure>
+<figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-rsa ...</span><br></pre></td></tr></table></figure>
 
 <p>設定金鑰權限。</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">chmod</span> 600 ~/.ssh/authorized_keys</span><br></pre></td></tr></table></figure>
@@ -227,7 +227,7 @@
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">touch</span> ~/.ssh/id_rsa</span><br></pre></td></tr></table></figure>
 
 <p>將本機的私有金鑰 <code>aws.pem</code> 檔的內容複製到 <code>~/.ssh/id_rsa</code> 檔。</p>
-<figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">-----BEGIN OPENSSH PRIVATE KEY-----</span><br><span class="line">...</span><br><span class="line">-----END OPENSSH PRIVATE KEY-----</span><br></pre></td></tr></table></figure>
+<figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">-----BEGIN OPENSSH PRIVATE KEY-----</span><br><span class="line">...</span><br><span class="line">-----END OPENSSH PRIVATE KEY-----</span><br></pre></td></tr></table></figure>
 
 <p>新增 <code>id_rsa.pub</code> 檔。</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">touch</span> ~/.ssh/id_rsa</span><br></pre></td></tr></table></figure>
