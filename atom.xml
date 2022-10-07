@@ -45,6 +45,36 @@
   </entry>
   
   <entry>
+    <title>使用 Google Sheets API 存取 Google 試算表</title>
+    <link href="https://memochou1993.github.io/2022/10/07/%E4%BD%BF%E7%94%A8-Google-Sheets-API-%E5%AD%98%E5%8F%96-Google-%E8%A9%A6%E7%AE%97%E8%A1%A8/"/>
+    <id>https://memochou1993.github.io/2022/10/07/%E4%BD%BF%E7%94%A8-Google-Sheets-API-%E5%AD%98%E5%8F%96-Google-%E8%A9%A6%E7%AE%97%E8%A1%A8/</id>
+    <published>2022-10-07T13:03:02.000Z</published>
+    <updated>2022-10-07T13:12:47.013Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前置作業&quot;&gt;&lt;a href=&quot;#前置作業&quot; class=&quot;headerlink&quot; title=&quot;前置作業&quot;&gt;&lt;/a&gt;前置作業&lt;/h2&gt;&lt;p&gt;申請 &lt;a href=&quot;https://developers.google.com/sheets/api&quot;&gt;Google S</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/"/>
+    
+    <category term="其他" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
+    
+    <category term="Google APIs" scheme="https://memochou1993.github.io/tags/Google-APIs/"/>
+    
+  </entry>
+  
+  <entry>
     <title>認識 RSA 加密演算法</title>
     <link href="https://memochou1993.github.io/2022/10/06/%E8%AA%8D%E8%AD%98-RSA-%E5%8A%A0%E5%AF%86%E6%BC%94%E7%AE%97%E6%B3%95/"/>
     <id>https://memochou1993.github.io/2022/10/06/%E8%AA%8D%E8%AD%98-RSA-%E5%8A%A0%E5%AF%86%E6%BC%94%E7%AE%97%E6%B3%95/</id>
@@ -11447,9 +11477,9 @@
     
     <category term="Laravel" scheme="https://memochou1993.github.io/tags/Laravel/"/>
     
-    <category term="Mix" scheme="https://memochou1993.github.io/tags/Mix/"/>
-    
     <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
+    
+    <category term="Mix" scheme="https://memochou1993.github.io/tags/Mix/"/>
     
     <category term="Vue" scheme="https://memochou1993.github.io/tags/Vue/"/>
     
@@ -11822,9 +11852,9 @@
     
     <category term="PHP" scheme="https://memochou1993.github.io/tags/PHP/"/>
     
-    <category term="套件管理工具" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
-    
     <category term="Composer" scheme="https://memochou1993.github.io/tags/Composer/"/>
+    
+    <category term="套件管理工具" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -14371,9 +14401,9 @@
     
     <category term="Laravel" scheme="https://memochou1993.github.io/tags/Laravel/"/>
     
-    <category term="macOS" scheme="https://memochou1993.github.io/tags/macOS/"/>
-    
     <category term="Xdebug" scheme="https://memochou1993.github.io/tags/Xdebug/"/>
+    
+    <category term="macOS" scheme="https://memochou1993.github.io/tags/macOS/"/>
     
   </entry>
   
@@ -14786,9 +14816,9 @@
     
     <category term="套件開發" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
-    
     <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
+    
+    <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
     
   </entry>
   
@@ -14823,9 +14853,9 @@
     
     <category term="套件開發" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
-    
     <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
+    
+    <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
     
   </entry>
   
