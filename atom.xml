@@ -6,7 +6,7 @@
   <link href="https://memochou1993.github.io/atom.xml" rel="self"/>
   
   <link href="https://memochou1993.github.io/"/>
-  <updated>2022-10-08T13:10:32.113Z</updated>
+  <updated>2022-10-09T14:28:37.612Z</updated>
   <id>https://memochou1993.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「The Rust Programming Language」學習筆記（十四）：Cargo</title>
+    <link href="https://memochou1993.github.io/2022/10/%E3%80%8CThe-Rust-Programming-Language%E3%80%8D%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%EF%BC%88%E5%8D%81%E5%9B%9B%EF%BC%89%EF%BC%9ACargo/"/>
+    <id>https://memochou1993.github.io/2022/10/%E3%80%8CThe-Rust-Programming-Language%E3%80%8D%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%EF%BC%88%E5%8D%81%E5%9B%9B%EF%BC%89%EF%BC%9ACargo/</id>
+    <published>2022-10-10T13:08:39.000Z</published>
+    <updated>2022-10-09T14:28:37.612Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本文為「&lt;a href=&quot;https://doc.rust-lang.org/stable/book/&quot;&gt;The Rust Programm</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Rust/"/>
+    
+    <category term="「The Rust Programming Language」學習筆記" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Rust/%E3%80%8CThe-Rust-Programming-Language%E3%80%8D%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/"/>
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
+    
+  </entry>
   
   <entry>
     <title>「The Rust Programming Language」學習筆記（十三）：疊代器與閉包</title>
@@ -218,11 +246,11 @@
     <category term="Bash Shell" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Bash-Shell/"/>
     
     
-    <category term="Node" scheme="https://memochou1993.github.io/tags/Node/"/>
-    
     <category term="Bash Shell" scheme="https://memochou1993.github.io/tags/Bash-Shell/"/>
     
     <category term="SSH" scheme="https://memochou1993.github.io/tags/SSH/"/>
+    
+    <category term="Node" scheme="https://memochou1993.github.io/tags/Node/"/>
     
   </entry>
   
@@ -596,9 +624,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Truffle" scheme="https://memochou1993.github.io/tags/Truffle/"/>
-    
     <category term="NFT" scheme="https://memochou1993.github.io/tags/NFT/"/>
+    
+    <category term="Truffle" scheme="https://memochou1993.github.io/tags/Truffle/"/>
     
     <category term="Ethers" scheme="https://memochou1993.github.io/tags/Ethers/"/>
     
@@ -849,7 +877,7 @@
     <link href="https://memochou1993.github.io/2022/08/%E4%BD%BF%E7%94%A8-Rust-%E5%BB%BA%E7%AB%8B%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E9%97%9C%E6%A9%9F%E8%88%87%E6%B8%85%E7%90%86/"/>
     <id>https://memochou1993.github.io/2022/08/%E4%BD%BF%E7%94%A8-Rust-%E5%BB%BA%E7%AB%8B%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E9%97%9C%E6%A9%9F%E8%88%87%E6%B8%85%E7%90%86/</id>
     <published>2022-08-14T13:00:37.000Z</published>
-    <updated>2022-10-06T17:26:45.221Z</updated>
+    <updated>2022-10-09T13:54:12.998Z</updated>
     
     
       
@@ -877,7 +905,7 @@
     <link href="https://memochou1993.github.io/2022/08/%E4%BD%BF%E7%94%A8-Rust-%E5%BB%BA%E7%AB%8B%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%A4%9A%E5%9F%B7%E8%A1%8C%E7%B7%92%E4%BC%BA%E6%9C%8D%E5%99%A8/"/>
     <id>https://memochou1993.github.io/2022/08/%E4%BD%BF%E7%94%A8-Rust-%E5%BB%BA%E7%AB%8B%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%A4%9A%E5%9F%B7%E8%A1%8C%E7%B7%92%E4%BC%BA%E6%9C%8D%E5%99%A8/</id>
     <published>2022-08-14T06:36:06.000Z</published>
-    <updated>2022-10-06T17:26:45.220Z</updated>
+    <updated>2022-10-09T13:54:05.593Z</updated>
     
     
       
@@ -933,7 +961,7 @@
     <link href="https://memochou1993.github.io/2022/08/%E3%80%8CThe-Rust-Programming-Language%E3%80%8D%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%EF%BC%88%E5%85%AB%EF%BC%89%EF%BC%9A%E9%9B%86%E5%90%88/"/>
     <id>https://memochou1993.github.io/2022/08/%E3%80%8CThe-Rust-Programming-Language%E3%80%8D%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%EF%BC%88%E5%85%AB%EF%BC%89%EF%BC%9A%E9%9B%86%E5%90%88/</id>
     <published>2022-08-06T14:45:36.000Z</published>
-    <updated>2022-10-06T17:26:29.567Z</updated>
+    <updated>2022-10-09T13:53:56.100Z</updated>
     
     
       
@@ -2055,9 +2083,9 @@
     
     <category term="Smart Contract" scheme="https://memochou1993.github.io/tags/Smart-Contract/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
     <category term="NFT" scheme="https://memochou1993.github.io/tags/NFT/"/>
     
@@ -2094,9 +2122,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
     <category term="NFT" scheme="https://memochou1993.github.io/tags/NFT/"/>
     
@@ -2161,9 +2189,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
     <category term="Raydium" scheme="https://memochou1993.github.io/tags/Raydium/"/>
     
@@ -2319,9 +2347,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
   </entry>
   
@@ -2383,9 +2411,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
   </entry>
   
@@ -2418,9 +2446,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
   </entry>
   
@@ -6091,9 +6119,9 @@
     
     <category term="Vue" scheme="https://memochou1993.github.io/tags/Vue/"/>
     
-    <category term="Localization" scheme="https://memochou1993.github.io/tags/Localization/"/>
-    
     <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
+    
+    <category term="Localization" scheme="https://memochou1993.github.io/tags/Localization/"/>
     
   </entry>
   
@@ -6727,9 +6755,9 @@
     
     <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="AWS" scheme="https://memochou1993.github.io/tags/AWS/"/>
-    
     <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
+    
+    <category term="AWS" scheme="https://memochou1993.github.io/tags/AWS/"/>
     
     <category term="S3" scheme="https://memochou1993.github.io/tags/S3/"/>
     
@@ -7252,9 +7280,9 @@
     
     <category term="環境部署" scheme="https://memochou1993.github.io/tags/%E7%92%B0%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
     
-    <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
-    
     <category term="Mix" scheme="https://memochou1993.github.io/tags/Mix/"/>
+    
+    <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
     
   </entry>
   
@@ -13671,9 +13699,9 @@
     
     <category term="macOS" scheme="https://memochou1993.github.io/tags/macOS/"/>
     
-    <category term="網頁伺服器" scheme="https://memochou1993.github.io/tags/%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8/"/>
-    
     <category term="Nginx" scheme="https://memochou1993.github.io/tags/Nginx/"/>
+    
+    <category term="網頁伺服器" scheme="https://memochou1993.github.io/tags/%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8/"/>
     
   </entry>
   
@@ -14847,9 +14875,9 @@
     
     <category term="套件開發" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
-    
     <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
+    
+    <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
     
   </entry>
   
@@ -14884,9 +14912,9 @@
     
     <category term="套件開發" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
-    
     <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
+    
+    <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
     
   </entry>
   
