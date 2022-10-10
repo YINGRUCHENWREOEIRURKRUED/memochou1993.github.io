@@ -6,7 +6,7 @@
   <link href="https://memochou1993.github.io/atom.xml" rel="self"/>
   
   <link href="https://memochou1993.github.io/"/>
-  <updated>2022-10-09T14:28:37.612Z</updated>
+  <updated>2022-10-10T09:17:21.644Z</updated>
   <id>https://memochou1993.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>「The Rust Programming Language」學習筆記（十四）：Cargo</title>
     <link href="https://memochou1993.github.io/2022/10/%E3%80%8CThe-Rust-Programming-Language%E3%80%8D%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%EF%BC%88%E5%8D%81%E5%9B%9B%EF%BC%89%EF%BC%9ACargo/"/>
     <id>https://memochou1993.github.io/2022/10/%E3%80%8CThe-Rust-Programming-Language%E3%80%8D%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%EF%BC%88%E5%8D%81%E5%9B%9B%EF%BC%89%EF%BC%9ACargo/</id>
-    <published>2022-10-10T13:08:39.000Z</published>
-    <updated>2022-10-09T14:28:37.612Z</updated>
+    <published>2022-10-11T13:08:39.000Z</published>
+    <updated>2022-10-10T09:17:21.644Z</updated>
     
     
       
@@ -41,6 +41,40 @@
     <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
     <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 Rust 專案使用 Diesel 操作 PostgreSQL 資料庫</title>
+    <link href="https://memochou1993.github.io/2022/10/%E5%9C%A8-Rust-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-Diesel-%E6%93%8D%E4%BD%9C-PostgreSQL-%E8%B3%87%E6%96%99%E5%BA%AB/"/>
+    <id>https://memochou1993.github.io/2022/10/%E5%9C%A8-Rust-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-Diesel-%E6%93%8D%E4%BD%9C-PostgreSQL-%E8%B3%87%E6%96%99%E5%BA%AB/</id>
+    <published>2022-10-10T07:42:42.000Z</published>
+    <updated>2022-10-10T09:19:34.683Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前置作業&quot;&gt;&lt;a href=&quot;#前置作業&quot; class=&quot;headerlink&quot; title=&quot;前置作業&quot;&gt;&lt;/a&gt;前置作業&lt;/h2&gt;&lt;h3 id=&quot;PostgreSQL-CLI&quot;&gt;&lt;a href=&quot;#PostgreSQL-CLI&quot; class=&quot;headerli</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Rust/"/>
+    
+    <category term="Diesel" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Rust/Diesel/"/>
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="ORM" scheme="https://memochou1993.github.io/tags/ORM/"/>
+    
+    <category term="PostgreSQL" scheme="https://memochou1993.github.io/tags/PostgreSQL/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
+    
+    <category term="Diesel" scheme="https://memochou1993.github.io/tags/Diesel/"/>
     
   </entry>
   
