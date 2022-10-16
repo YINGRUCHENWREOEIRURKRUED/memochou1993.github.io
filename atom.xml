@@ -6,7 +6,7 @@
   <link href="https://memochou1993.github.io/atom.xml" rel="self"/>
   
   <link href="https://memochou1993.github.io/"/>
-  <updated>2022-10-10T13:15:20.698Z</updated>
+  <updated>2022-10-16T18:14:18.504Z</updated>
   <id>https://memochou1993.github.io/</id>
   
   <author>
@@ -15,6 +15,71 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在 Ethereum 專案使用 JavaScript 對資料進行簽名與驗證</title>
+    <link href="https://memochou1993.github.io/2022/10/%E5%9C%A8-Ethereum-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-JavaScript-%E5%B0%8D%E8%B3%87%E6%96%99%E9%80%B2%E8%A1%8C%E7%B0%BD%E5%90%8D%E8%88%87%E9%A9%97%E8%AD%89/"/>
+    <id>https://memochou1993.github.io/2022/10/%E5%9C%A8-Ethereum-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-JavaScript-%E5%B0%8D%E8%B3%87%E6%96%99%E9%80%B2%E8%A1%8C%E7%B0%BD%E5%90%8D%E8%88%87%E9%A9%97%E8%AD%89/</id>
+    <published>2022-10-16T17:33:06.000Z</published>
+    <updated>2022-10-16T18:14:18.504Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;做法&quot;&gt;&lt;a href=&quot;#做法&quot; class=&quot;headerlink&quot; title=&quot;做法&quot;&gt;&lt;/a&gt;做法&lt;/h2&gt;&lt;h3 id=&quot;使用-Ethers-js-套件&quot;&gt;&lt;a href=&quot;#使用-Ethers-js-套件&quot; class=&quot;headerlink&quot; ti</summary>
+      
+    
+    
+    
+    <category term="區塊鏈" scheme="https://memochou1993.github.io/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    <category term="Ethereum" scheme="https://memochou1993.github.io/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/Ethereum/"/>
+    
+    
+    <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
+    
+    <category term="Node" scheme="https://memochou1993.github.io/tags/Node/"/>
+    
+    <category term="區塊鏈" scheme="https://memochou1993.github.io/tags/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    <category term="Ethereum" scheme="https://memochou1993.github.io/tags/Ethereum/"/>
+    
+    <category term="Web3" scheme="https://memochou1993.github.io/tags/Web3/"/>
+    
+    <category term="MetaMask" scheme="https://memochou1993.github.io/tags/MetaMask/"/>
+    
+    <category term="Ethers" scheme="https://memochou1993.github.io/tags/Ethers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Rust 實作「短網址產生器」應用程式</title>
+    <link href="https://memochou1993.github.io/2022/10/%E4%BD%BF%E7%94%A8-Rust-%E5%AF%A6%E4%BD%9C%E3%80%8C%E7%9F%AD%E7%B6%B2%E5%9D%80%E7%94%A2%E7%94%9F%E5%99%A8%E3%80%8D%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/"/>
+    <id>https://memochou1993.github.io/2022/10/%E4%BD%BF%E7%94%A8-Rust-%E5%AF%A6%E4%BD%9C%E3%80%8C%E7%9F%AD%E7%B6%B2%E5%9D%80%E7%94%A2%E7%94%9F%E5%99%A8%E3%80%8D%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/</id>
+    <published>2022-10-13T15:12:31.000Z</published>
+    <updated>2022-10-13T15:34:46.232Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;建立專案&quot;&gt;&lt;a href=&quot;#建立專案&quot; class=&quot;headerlink&quot; title=&quot;建立專案&quot;&gt;&lt;/a&gt;建立專案&lt;/h2&gt;&lt;p&gt;建立專案。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Rust/"/>
+    
+    <category term="其他" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Rust/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
+    
+  </entry>
   
   <entry>
     <title>「The Rust Programming Language」學習筆記（十四）：Cargo</title>
@@ -49,7 +114,7 @@
     <link href="https://memochou1993.github.io/2022/10/%E5%9C%A8-Rust-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-Diesel-%E6%93%8D%E4%BD%9C-PostgreSQL-%E8%B3%87%E6%96%99%E5%BA%AB/"/>
     <id>https://memochou1993.github.io/2022/10/%E5%9C%A8-Rust-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-Diesel-%E6%93%8D%E4%BD%9C-PostgreSQL-%E8%B3%87%E6%96%99%E5%BA%AB/</id>
     <published>2022-10-10T07:42:42.000Z</published>
-    <updated>2022-10-11T15:54:54.769Z</updated>
+    <updated>2022-10-13T15:31:20.128Z</updated>
     
     
       
@@ -4092,7 +4157,7 @@
     <link href="https://memochou1993.github.io/2022/01/%E5%9C%A8-Laravel-8-0-%E4%BD%BF%E7%94%A8-ORM-%E5%AF%A6%E7%8F%BE%E5%A4%96%E9%8D%B5%E7%9A%84%E8%87%AA%E6%88%91%E5%8F%83%E8%80%83/"/>
     <id>https://memochou1993.github.io/2022/01/%E5%9C%A8-Laravel-8-0-%E4%BD%BF%E7%94%A8-ORM-%E5%AF%A6%E7%8F%BE%E5%A4%96%E9%8D%B5%E7%9A%84%E8%87%AA%E6%88%91%E5%8F%83%E8%80%83/</id>
     <published>2022-01-16T15:22:13.000Z</published>
-    <updated>2022-10-06T17:24:21.214Z</updated>
+    <updated>2022-10-13T15:31:39.478Z</updated>
     
     
       
@@ -6456,6 +6521,35 @@
     <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
     <category term="Dart" scheme="https://memochou1993.github.io/tags/Dart/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Go 實作「短網址產生器」應用程式</title>
+    <link href="https://memochou1993.github.io/2021/07/%E4%BD%BF%E7%94%A8-Go-%E5%AF%A6%E4%BD%9C%E3%80%8C%E7%9F%AD%E7%B6%B2%E5%9D%80%E7%94%A2%E7%94%9F%E5%99%A8%E3%80%8D%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/"/>
+    <id>https://memochou1993.github.io/2021/07/%E4%BD%BF%E7%94%A8-Go-%E5%AF%A6%E4%BD%9C%E3%80%8C%E7%9F%AD%E7%B6%B2%E5%9D%80%E7%94%A2%E7%94%9F%E5%99%A8%E3%80%8D%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/</id>
+    <published>2021-07-12T02:15:17.000Z</published>
+    <updated>2022-10-13T15:34:30.083Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;以下實作一個可以將檔案上傳至 Minio 伺服器的短網址服務。&lt;/p&gt;
+&lt;h2 id=&quot;建立專案&quot;&gt;&lt;a href=&quot;#建立專案&quot; clas</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Go" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Go/"/>
+    
+    <category term="其他" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Go/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
     
   </entry>
   
@@ -10602,11 +10696,11 @@
   </entry>
   
   <entry>
-    <title>在 Go 專案實作 MongoDB 批量操作</title>
-    <link href="https://memochou1993.github.io/2020/01/%E5%9C%A8-Go-%E5%B0%88%E6%A1%88%E5%AF%A6%E4%BD%9C-MongoDB-%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C/"/>
-    <id>https://memochou1993.github.io/2020/01/%E5%9C%A8-Go-%E5%B0%88%E6%A1%88%E5%AF%A6%E4%BD%9C-MongoDB-%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C/</id>
+    <title>在 Go 專案使用 MongoDB 批量操作</title>
+    <link href="https://memochou1993.github.io/2020/01/%E5%9C%A8-Go-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-MongoDB-%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C/"/>
+    <id>https://memochou1993.github.io/2020/01/%E5%9C%A8-Go-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-MongoDB-%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C/</id>
     <published>2020-01-08T14:33:24.000Z</published>
-    <updated>2022-10-06T17:26:45.171Z</updated>
+    <updated>2022-10-13T15:03:48.848Z</updated>
     
     
       
