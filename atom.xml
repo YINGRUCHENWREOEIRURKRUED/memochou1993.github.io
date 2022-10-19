@@ -6,7 +6,7 @@
   <link href="https://memochou1993.github.io/atom.xml" rel="self"/>
   
   <link href="https://memochou1993.github.io/"/>
-  <updated>2022-10-16T18:14:18.504Z</updated>
+  <updated>2022-10-19T15:07:38.891Z</updated>
   <id>https://memochou1993.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 Redoc 生成 OpenAPI 文件網站</title>
+    <link href="https://memochou1993.github.io/2022/10/%E4%BD%BF%E7%94%A8-Redoc-%E7%94%9F%E6%88%90-OpenAPI-%E6%96%87%E4%BB%B6%E7%B6%B2%E7%AB%99/"/>
+    <id>https://memochou1993.github.io/2022/10/%E4%BD%BF%E7%94%A8-Redoc-%E7%94%9F%E6%88%90-OpenAPI-%E6%96%87%E4%BB%B6%E7%B6%B2%E7%AB%99/</id>
+    <published>2022-10-18T11:08:50.000Z</published>
+    <updated>2022-10-19T15:07:38.891Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;做法&quot;&gt;&lt;a href=&quot;#做法&quot; class=&quot;headerlink&quot; title=&quot;做法&quot;&gt;&lt;/a&gt;做法&lt;/h2&gt;&lt;p&gt;安裝 Redoc CLI 工具。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td cla</summary>
+      
+    
+    
+    
+    <category term="靜態網頁生成器" scheme="https://memochou1993.github.io/categories/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E7%94%9F%E6%88%90%E5%99%A8/"/>
+    
+    <category term="Redoc" scheme="https://memochou1993.github.io/categories/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E7%94%9F%E6%88%90%E5%99%A8/Redoc/"/>
+    
+    
+    <category term="Swagger" scheme="https://memochou1993.github.io/tags/Swagger/"/>
+    
+    <category term="Static Site Generator" scheme="https://memochou1993.github.io/tags/Static-Site-Generator/"/>
+    
+    <category term="Redoc" scheme="https://memochou1993.github.io/tags/Redoc/"/>
+    
+    <category term="OpenAPI" scheme="https://memochou1993.github.io/tags/OpenAPI/"/>
+    
+  </entry>
   
   <entry>
     <title>在 Ethereum 專案使用 JavaScript 對資料進行簽名與驗證</title>
