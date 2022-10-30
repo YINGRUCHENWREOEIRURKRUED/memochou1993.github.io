@@ -6,7 +6,7 @@
   <link href="https://memochou1993.github.io/atom.xml" rel="self"/>
   
   <link href="https://memochou1993.github.io/"/>
-  <updated>2022-10-19T15:07:38.891Z</updated>
+  <updated>2022-10-30T15:09:38.113Z</updated>
   <id>https://memochou1993.github.io/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 Node 建立 gRPC 服務端與客戶端</title>
+    <link href="https://memochou1993.github.io/2022/11/%E4%BD%BF%E7%94%A8-Node-%E5%BB%BA%E7%AB%8B-gRPC-%E6%9C%8D%E5%8B%99%E7%AB%AF%E8%88%87%E5%AE%A2%E6%88%B6%E7%AB%AF/"/>
+    <id>https://memochou1993.github.io/2022/11/%E4%BD%BF%E7%94%A8-Node-%E5%BB%BA%E7%AB%8B-gRPC-%E6%9C%8D%E5%8B%99%E7%AB%AF%E8%88%87%E5%AE%A2%E6%88%B6%E7%AB%AF/</id>
+    <published>2022-11-01T14:54:57.000Z</published>
+    <updated>2022-10-30T15:09:38.113Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;gRPC 是 Google 發起的一個高效能的、開源的遠端程序呼叫（Remote Procedure Call）框架。此框架基於 HTTP&amp;</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/"/>
+    
+    <category term="Node" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/Node/"/>
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
+    
+    <category term="Node" scheme="https://memochou1993.github.io/tags/Node/"/>
+    
+    <category term="gRPC" scheme="https://memochou1993.github.io/tags/gRPC/"/>
+    
+    <category term="RPC" scheme="https://memochou1993.github.io/tags/RPC/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 Redoc 生成 OpenAPI 文件網站</title>
@@ -414,11 +448,11 @@
     
     <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
+    <category term="Canvas" scheme="https://memochou1993.github.io/tags/Canvas/"/>
+    
     <category term="WebAssembly" scheme="https://memochou1993.github.io/tags/WebAssembly/"/>
     
     <category term="Wasm" scheme="https://memochou1993.github.io/tags/Wasm/"/>
-    
-    <category term="Canvas" scheme="https://memochou1993.github.io/tags/Canvas/"/>
     
     <category term="Yew" scheme="https://memochou1993.github.io/tags/Yew/"/>
     
@@ -1473,9 +1507,9 @@
     
     <category term="Truffle" scheme="https://memochou1993.github.io/tags/Truffle/"/>
     
-    <category term="ERC-20" scheme="https://memochou1993.github.io/tags/ERC-20/"/>
-    
     <category term="BSC" scheme="https://memochou1993.github.io/tags/BSC/"/>
+    
+    <category term="ERC-20" scheme="https://memochou1993.github.io/tags/ERC-20/"/>
     
   </entry>
   
@@ -1827,11 +1861,11 @@
     
     <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
+    <category term="Canvas" scheme="https://memochou1993.github.io/tags/Canvas/"/>
+    
     <category term="WebAssembly" scheme="https://memochou1993.github.io/tags/WebAssembly/"/>
     
     <category term="Wasm" scheme="https://memochou1993.github.io/tags/Wasm/"/>
-    
-    <category term="Canvas" scheme="https://memochou1993.github.io/tags/Canvas/"/>
     
   </entry>
   
@@ -4521,9 +4555,9 @@
     
     <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
     
-    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
-    
     <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
+    
+    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
     
   </entry>
   
@@ -5083,9 +5117,9 @@
     
     <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
     
-    <category term="爬蟲" scheme="https://memochou1993.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
-    
     <category term="Node" scheme="https://memochou1993.github.io/tags/Node/"/>
+    
+    <category term="爬蟲" scheme="https://memochou1993.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
     
   </entry>
   
@@ -5116,9 +5150,9 @@
     
     <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
     
-    <category term="爬蟲" scheme="https://memochou1993.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
-    
     <category term="Node" scheme="https://memochou1993.github.io/tags/Node/"/>
+    
+    <category term="爬蟲" scheme="https://memochou1993.github.io/tags/%E7%88%AC%E8%9F%B2/"/>
     
   </entry>
   
@@ -6251,9 +6285,9 @@
     
     <category term="Vue" scheme="https://memochou1993.github.io/tags/Vue/"/>
     
-    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
-    
     <category term="Localization" scheme="https://memochou1993.github.io/tags/Localization/"/>
+    
+    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
     
   </entry>
   
@@ -6916,9 +6950,9 @@
     
     <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
-    
     <category term="AWS" scheme="https://memochou1993.github.io/tags/AWS/"/>
+    
+    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
     
     <category term="S3" scheme="https://memochou1993.github.io/tags/S3/"/>
     
@@ -6952,9 +6986,9 @@
     
     <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
     
-    <category term="TypeScript" scheme="https://memochou1993.github.io/tags/TypeScript/"/>
-    
     <category term="npm" scheme="https://memochou1993.github.io/tags/npm/"/>
+    
+    <category term="TypeScript" scheme="https://memochou1993.github.io/tags/TypeScript/"/>
     
     <category term="Jest" scheme="https://memochou1993.github.io/tags/Jest/"/>
     
@@ -7020,9 +7054,9 @@
     
     <category term="環境部署" scheme="https://memochou1993.github.io/tags/%E7%92%B0%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
     
-    <category term="Kubernetes" scheme="https://memochou1993.github.io/tags/Kubernetes/"/>
-    
     <category term="HTTPS" scheme="https://memochou1993.github.io/tags/HTTPS/"/>
+    
+    <category term="Kubernetes" scheme="https://memochou1993.github.io/tags/Kubernetes/"/>
     
     <category term="Ingress" scheme="https://memochou1993.github.io/tags/Ingress/"/>
     
@@ -7242,9 +7276,9 @@
     
     <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
     
-    <category term="TypeScript" scheme="https://memochou1993.github.io/tags/TypeScript/"/>
-    
     <category term="npm" scheme="https://memochou1993.github.io/tags/npm/"/>
+    
+    <category term="TypeScript" scheme="https://memochou1993.github.io/tags/TypeScript/"/>
     
     <category term="Jest" scheme="https://memochou1993.github.io/tags/Jest/"/>
     
@@ -9744,11 +9778,11 @@
     
     <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
     
+    <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
+    
     <category term="Kubernetes" scheme="https://memochou1993.github.io/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://memochou1993.github.io/tags/minikube/"/>
-    
-    <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
     
   </entry>
   
@@ -9778,11 +9812,11 @@
     
     <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
     
+    <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
+    
     <category term="Kubernetes" scheme="https://memochou1993.github.io/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://memochou1993.github.io/tags/minikube/"/>
-    
-    <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
     
   </entry>
   
@@ -10990,11 +11024,11 @@
     
     <category term="Laradock" scheme="https://memochou1993.github.io/tags/Laradock/"/>
     
-    <category term="Caddy" scheme="https://memochou1993.github.io/tags/Caddy/"/>
-    
     <category term="SSL" scheme="https://memochou1993.github.io/tags/SSL/"/>
     
     <category term="HTTPS" scheme="https://memochou1993.github.io/tags/HTTPS/"/>
+    
+    <category term="Caddy" scheme="https://memochou1993.github.io/tags/Caddy/"/>
     
   </entry>
   
@@ -11697,9 +11731,9 @@
     
     <category term="Laravel" scheme="https://memochou1993.github.io/tags/Laravel/"/>
     
-    <category term="Mix" scheme="https://memochou1993.github.io/tags/Mix/"/>
-    
     <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
+    
+    <category term="Mix" scheme="https://memochou1993.github.io/tags/Mix/"/>
     
     <category term="Vue" scheme="https://memochou1993.github.io/tags/Vue/"/>
     
@@ -12072,9 +12106,9 @@
     
     <category term="PHP" scheme="https://memochou1993.github.io/tags/PHP/"/>
     
-    <category term="Composer" scheme="https://memochou1993.github.io/tags/Composer/"/>
-    
     <category term="套件管理工具" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Composer" scheme="https://memochou1993.github.io/tags/Composer/"/>
     
   </entry>
   
