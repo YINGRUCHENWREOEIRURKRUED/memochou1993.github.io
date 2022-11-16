@@ -6,7 +6,7 @@
   <link href="https://memochou1993.github.io/atom.xml" rel="self"/>
   
   <link href="https://memochou1993.github.io/"/>
-  <updated>2022-11-15T08:58:45.942Z</updated>
+  <updated>2022-11-16T15:22:47.144Z</updated>
   <id>https://memochou1993.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在 Hexo 部落格新增 Mermaid 語法功能</title>
+    <link href="https://memochou1993.github.io/2022/11/%E5%9C%A8-Hexo-%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%B0%E5%A2%9E-Mermaid-%E8%AA%9E%E6%B3%95%E5%8A%9F%E8%83%BD/"/>
+    <id>https://memochou1993.github.io/2022/11/%E5%9C%A8-Hexo-%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%B0%E5%A2%9E-Mermaid-%E8%AA%9E%E6%B3%95%E5%8A%9F%E8%83%BD/</id>
+    <published>2022-11-16T15:09:34.000Z</published>
+    <updated>2022-11-16T15:22:47.144Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;做法&quot;&gt;&lt;a href=&quot;#做法&quot; class=&quot;headerlink&quot; title=&quot;做法&quot;&gt;&lt;/a&gt;做法&lt;/h2&gt;&lt;p&gt;修改 &lt;code&gt;themes/cactus/_config.yml&lt;/code&gt; 檔，新增 &lt;code&gt;mermaid&lt;/code&gt; 欄位</summary>
+      
+    
+    
+    
+    <category term="靜態網頁生成器" scheme="https://memochou1993.github.io/categories/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E7%94%9F%E6%88%90%E5%99%A8/"/>
+    
+    <category term="Hexo" scheme="https://memochou1993.github.io/categories/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E7%94%9F%E6%88%90%E5%99%A8/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://memochou1993.github.io/tags/Hexo/"/>
+    
+    <category term="Markdown" scheme="https://memochou1993.github.io/tags/Markdown/"/>
+    
+    <category term="Mermaid" scheme="https://memochou1993.github.io/tags/Mermaid/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 Docker 容器化 Next 專案</title>
@@ -482,11 +510,11 @@
     <category term="Bash Shell" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Bash-Shell/"/>
     
     
-    <category term="Node" scheme="https://memochou1993.github.io/tags/Node/"/>
-    
     <category term="Bash Shell" scheme="https://memochou1993.github.io/tags/Bash-Shell/"/>
     
     <category term="SSH" scheme="https://memochou1993.github.io/tags/SSH/"/>
+    
+    <category term="Node" scheme="https://memochou1993.github.io/tags/Node/"/>
     
   </entry>
   
@@ -518,11 +546,11 @@
     
     <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
-    <category term="Canvas" scheme="https://memochou1993.github.io/tags/Canvas/"/>
-    
     <category term="WebAssembly" scheme="https://memochou1993.github.io/tags/WebAssembly/"/>
     
     <category term="Wasm" scheme="https://memochou1993.github.io/tags/Wasm/"/>
+    
+    <category term="Canvas" scheme="https://memochou1993.github.io/tags/Canvas/"/>
     
     <category term="Yew" scheme="https://memochou1993.github.io/tags/Yew/"/>
     
@@ -1577,9 +1605,9 @@
     
     <category term="Truffle" scheme="https://memochou1993.github.io/tags/Truffle/"/>
     
-    <category term="BSC" scheme="https://memochou1993.github.io/tags/BSC/"/>
-    
     <category term="ERC-20" scheme="https://memochou1993.github.io/tags/ERC-20/"/>
+    
+    <category term="BSC" scheme="https://memochou1993.github.io/tags/BSC/"/>
     
   </entry>
   
@@ -1931,11 +1959,11 @@
     
     <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
-    <category term="Canvas" scheme="https://memochou1993.github.io/tags/Canvas/"/>
-    
     <category term="WebAssembly" scheme="https://memochou1993.github.io/tags/WebAssembly/"/>
     
     <category term="Wasm" scheme="https://memochou1993.github.io/tags/Wasm/"/>
+    
+    <category term="Canvas" scheme="https://memochou1993.github.io/tags/Canvas/"/>
     
   </entry>
   
@@ -6355,9 +6383,9 @@
     
     <category term="Vue" scheme="https://memochou1993.github.io/tags/Vue/"/>
     
-    <category term="Localization" scheme="https://memochou1993.github.io/tags/Localization/"/>
-    
     <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
+    
+    <category term="Localization" scheme="https://memochou1993.github.io/tags/Localization/"/>
     
   </entry>
   
@@ -7020,9 +7048,9 @@
     
     <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="AWS" scheme="https://memochou1993.github.io/tags/AWS/"/>
-    
     <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
+    
+    <category term="AWS" scheme="https://memochou1993.github.io/tags/AWS/"/>
     
     <category term="S3" scheme="https://memochou1993.github.io/tags/S3/"/>
     
@@ -7545,9 +7573,9 @@
     
     <category term="環境部署" scheme="https://memochou1993.github.io/tags/%E7%92%B0%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
     
-    <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
-    
     <category term="Mix" scheme="https://memochou1993.github.io/tags/Mix/"/>
+    
+    <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
     
   </entry>
   
@@ -11801,9 +11829,9 @@
     
     <category term="Laravel" scheme="https://memochou1993.github.io/tags/Laravel/"/>
     
-    <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
-    
     <category term="Mix" scheme="https://memochou1993.github.io/tags/Mix/"/>
+    
+    <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
     
     <category term="Vue" scheme="https://memochou1993.github.io/tags/Vue/"/>
     
@@ -12176,9 +12204,9 @@
     
     <category term="PHP" scheme="https://memochou1993.github.io/tags/PHP/"/>
     
-    <category term="套件管理工具" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
-    
     <category term="Composer" scheme="https://memochou1993.github.io/tags/Composer/"/>
+    
+    <category term="套件管理工具" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -13964,9 +13992,9 @@
     
     <category term="macOS" scheme="https://memochou1993.github.io/tags/macOS/"/>
     
-    <category term="網頁伺服器" scheme="https://memochou1993.github.io/tags/%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8/"/>
-    
     <category term="Nginx" scheme="https://memochou1993.github.io/tags/Nginx/"/>
+    
+    <category term="網頁伺服器" scheme="https://memochou1993.github.io/tags/%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8/"/>
     
   </entry>
   
@@ -15140,9 +15168,9 @@
     
     <category term="套件開發" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
-    
     <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
+    
+    <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
     
   </entry>
   
@@ -15177,9 +15205,9 @@
     
     <category term="套件開發" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
-    
     <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
+    
+    <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
     
   </entry>
   
