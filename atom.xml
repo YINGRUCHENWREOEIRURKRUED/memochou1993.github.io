@@ -46,6 +46,41 @@
   </entry>
   
   <entry>
+    <title>在 Node 專案使用 ESLint 分析工具並套用 Airbnb 程式碼風格</title>
+    <link href="https://memochou1993.github.io/2022/11/%E5%9C%A8-Node-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-ESLint-%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E4%B8%A6%E5%A5%97%E7%94%A8-Airbnb-%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A2%A8%E6%A0%BC/"/>
+    <id>https://memochou1993.github.io/2022/11/%E5%9C%A8-Node-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-ESLint-%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%E4%B8%A6%E5%A5%97%E7%94%A8-Airbnb-%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A2%A8%E6%A0%BC/</id>
+    <published>2022-11-17T16:00:56.000Z</published>
+    <updated>2022-11-17T16:08:27.210Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;做法&quot;&gt;&lt;a href=&quot;#做法&quot; class=&quot;headerlink&quot; title=&quot;做法&quot;&gt;&lt;/a&gt;做法&lt;/h2&gt;&lt;p&gt;新增專案。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/"/>
+    
+    <category term="ESLint" scheme="https://memochou1993.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/ESLint/"/>
+    
+    
+    <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
+    
+    <category term="ESLint" scheme="https://memochou1993.github.io/tags/ESLint/"/>
+    
+    <category term="Airbnb" scheme="https://memochou1993.github.io/tags/Airbnb/"/>
+    
+    <category term="Node" scheme="https://memochou1993.github.io/tags/Node/"/>
+    
+  </entry>
+  
+  <entry>
     <title>使用 Docker 搭建 phpMyAdmin 資料庫管理工具</title>
     <link href="https://memochou1993.github.io/2022/11/%E4%BD%BF%E7%94%A8-Docker-%E6%90%AD%E5%BB%BA-phpMyAdmin-%E8%B3%87%E6%96%99%E5%BA%AB%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
     <id>https://memochou1993.github.io/2022/11/%E4%BD%BF%E7%94%A8-Docker-%E6%90%AD%E5%BB%BA-phpMyAdmin-%E8%B3%87%E6%96%99%E5%BA%AB%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/</id>
@@ -950,11 +985,11 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
+    <category term="NFT" scheme="https://memochou1993.github.io/tags/NFT/"/>
+    
     <category term="Truffle" scheme="https://memochou1993.github.io/tags/Truffle/"/>
     
     <category term="Ethers" scheme="https://memochou1993.github.io/tags/Ethers/"/>
-    
-    <category term="NFT" scheme="https://memochou1993.github.io/tags/NFT/"/>
     
     <category term="ERC-1155" scheme="https://memochou1993.github.io/tags/ERC-1155/"/>
     
@@ -1019,19 +1054,19 @@
     
     <category term="Ethereum" scheme="https://memochou1993.github.io/tags/Ethereum/"/>
     
+    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
+    
     <category term="Solidity" scheme="https://memochou1993.github.io/tags/Solidity/"/>
+    
+    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
     
     <category term="Smart Contract" scheme="https://memochou1993.github.io/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="ERC-721" scheme="https://memochou1993.github.io/tags/ERC-721/"/>
-    
-    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
-    
     <category term="NFT" scheme="https://memochou1993.github.io/tags/NFT/"/>
     
-    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
+    <category term="ERC-721" scheme="https://memochou1993.github.io/tags/ERC-721/"/>
     
     <category term="IPFS" scheme="https://memochou1993.github.io/tags/IPFS/"/>
     
@@ -2409,11 +2444,11 @@
     
     <category term="Smart Contract" scheme="https://memochou1993.github.io/tags/Smart-Contract/"/>
     
+    <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
     <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
     <category term="NFT" scheme="https://memochou1993.github.io/tags/NFT/"/>
-    
-    <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
     
     <category term="DAO" scheme="https://memochou1993.github.io/tags/DAO/"/>
     
@@ -2448,11 +2483,11 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
+    <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
     <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
     <category term="NFT" scheme="https://memochou1993.github.io/tags/NFT/"/>
-    
-    <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
     
     <category term="Metaplex" scheme="https://memochou1993.github.io/tags/Metaplex/"/>
     
@@ -2515,9 +2550,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
     <category term="Raydium" scheme="https://memochou1993.github.io/tags/Raydium/"/>
     
@@ -2673,9 +2708,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
   </entry>
   
@@ -2737,9 +2772,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
   </entry>
   
@@ -2772,9 +2807,9 @@
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://memochou1993.github.io/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://memochou1993.github.io/tags/Rust/"/>
     
   </entry>
   
@@ -3626,15 +3661,15 @@
     
     <category term="Ethereum" scheme="https://memochou1993.github.io/tags/Ethereum/"/>
     
+    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
+    
     <category term="Solidity" scheme="https://memochou1993.github.io/tags/Solidity/"/>
+    
+    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
     
     <category term="Smart Contract" scheme="https://memochou1993.github.io/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
-    
-    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
-    
-    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
     
   </entry>
   
@@ -3666,15 +3701,15 @@
     
     <category term="Ethereum" scheme="https://memochou1993.github.io/tags/Ethereum/"/>
     
+    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
+    
     <category term="Solidity" scheme="https://memochou1993.github.io/tags/Solidity/"/>
+    
+    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
     
     <category term="Smart Contract" scheme="https://memochou1993.github.io/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
-    
-    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
-    
-    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
     
   </entry>
   
@@ -3706,15 +3741,15 @@
     
     <category term="Ethereum" scheme="https://memochou1993.github.io/tags/Ethereum/"/>
     
+    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
+    
     <category term="Solidity" scheme="https://memochou1993.github.io/tags/Solidity/"/>
+    
+    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
     
     <category term="Smart Contract" scheme="https://memochou1993.github.io/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
-    
-    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
-    
-    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
     
   </entry>
   
@@ -3746,15 +3781,15 @@
     
     <category term="Ethereum" scheme="https://memochou1993.github.io/tags/Ethereum/"/>
     
+    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
+    
     <category term="Solidity" scheme="https://memochou1993.github.io/tags/Solidity/"/>
+    
+    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
     
     <category term="Smart Contract" scheme="https://memochou1993.github.io/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://memochou1993.github.io/tags/DApp/"/>
-    
-    <category term="Hardhat" scheme="https://memochou1993.github.io/tags/Hardhat/"/>
-    
-    <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
     
   </entry>
   
@@ -3818,9 +3853,9 @@
     
     <category term="Web3" scheme="https://memochou1993.github.io/tags/Web3/"/>
     
-    <category term="MetaMask" scheme="https://memochou1993.github.io/tags/MetaMask/"/>
-    
     <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
+    
+    <category term="MetaMask" scheme="https://memochou1993.github.io/tags/MetaMask/"/>
     
   </entry>
   
@@ -3854,9 +3889,9 @@
     
     <category term="Web3" scheme="https://memochou1993.github.io/tags/Web3/"/>
     
-    <category term="MetaMask" scheme="https://memochou1993.github.io/tags/MetaMask/"/>
-    
     <category term="Alchemy" scheme="https://memochou1993.github.io/tags/Alchemy/"/>
+    
+    <category term="MetaMask" scheme="https://memochou1993.github.io/tags/MetaMask/"/>
     
   </entry>
   
@@ -4031,11 +4066,11 @@
     
     <category term="AWS" scheme="https://memochou1993.github.io/tags/AWS/"/>
     
+    <category term="Terraform" scheme="https://memochou1993.github.io/tags/Terraform/"/>
+    
     <category term="S3" scheme="https://memochou1993.github.io/tags/S3/"/>
     
     <category term="Storage Service" scheme="https://memochou1993.github.io/tags/Storage-Service/"/>
-    
-    <category term="Terraform" scheme="https://memochou1993.github.io/tags/Terraform/"/>
     
   </entry>
   
@@ -4715,9 +4750,9 @@
     
     <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
     
-    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
-    
     <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
+    
+    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
     
   </entry>
   
@@ -5969,9 +6004,9 @@
     
     <category term="AWS" scheme="https://memochou1993.github.io/tags/AWS/"/>
     
-    <category term="Terraform" scheme="https://memochou1993.github.io/tags/Terraform/"/>
-    
     <category term="EC2" scheme="https://memochou1993.github.io/tags/EC2/"/>
+    
+    <category term="Terraform" scheme="https://memochou1993.github.io/tags/Terraform/"/>
     
   </entry>
   
@@ -6346,9 +6381,9 @@
     
     <category term="Storage Service" scheme="https://memochou1993.github.io/tags/Storage-Service/"/>
     
-    <category term="ACM" scheme="https://memochou1993.github.io/tags/ACM/"/>
-    
     <category term="CloudFront" scheme="https://memochou1993.github.io/tags/CloudFront/"/>
+    
+    <category term="ACM" scheme="https://memochou1993.github.io/tags/ACM/"/>
     
   </entry>
   
@@ -6445,9 +6480,9 @@
     
     <category term="Vue" scheme="https://memochou1993.github.io/tags/Vue/"/>
     
-    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
-    
     <category term="Localization" scheme="https://memochou1993.github.io/tags/Localization/"/>
+    
+    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
     
   </entry>
   
@@ -7048,9 +7083,9 @@
     
     <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
     
-    <category term="Selenium" scheme="https://memochou1993.github.io/tags/Selenium/"/>
-    
     <category term="Chrome" scheme="https://memochou1993.github.io/tags/Chrome/"/>
+    
+    <category term="Selenium" scheme="https://memochou1993.github.io/tags/Selenium/"/>
     
   </entry>
   
@@ -7110,9 +7145,9 @@
     
     <category term="程式設計" scheme="https://memochou1993.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
-    
     <category term="AWS" scheme="https://memochou1993.github.io/tags/AWS/"/>
+    
+    <category term="Go" scheme="https://memochou1993.github.io/tags/Go/"/>
     
     <category term="S3" scheme="https://memochou1993.github.io/tags/S3/"/>
     
@@ -7146,9 +7181,9 @@
     
     <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
     
-    <category term="TypeScript" scheme="https://memochou1993.github.io/tags/TypeScript/"/>
-    
     <category term="npm" scheme="https://memochou1993.github.io/tags/npm/"/>
+    
+    <category term="TypeScript" scheme="https://memochou1993.github.io/tags/TypeScript/"/>
     
     <category term="Jest" scheme="https://memochou1993.github.io/tags/Jest/"/>
     
@@ -7214,11 +7249,11 @@
     
     <category term="環境部署" scheme="https://memochou1993.github.io/tags/%E7%92%B0%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
     
+    <category term="HTTPS" scheme="https://memochou1993.github.io/tags/HTTPS/"/>
+    
     <category term="Kubernetes" scheme="https://memochou1993.github.io/tags/Kubernetes/"/>
     
     <category term="Ingress" scheme="https://memochou1993.github.io/tags/Ingress/"/>
-    
-    <category term="HTTPS" scheme="https://memochou1993.github.io/tags/HTTPS/"/>
     
   </entry>
   
@@ -7436,9 +7471,9 @@
     
     <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
     
-    <category term="TypeScript" scheme="https://memochou1993.github.io/tags/TypeScript/"/>
-    
     <category term="npm" scheme="https://memochou1993.github.io/tags/npm/"/>
+    
+    <category term="TypeScript" scheme="https://memochou1993.github.io/tags/TypeScript/"/>
     
     <category term="Jest" scheme="https://memochou1993.github.io/tags/Jest/"/>
     
@@ -9938,11 +9973,11 @@
     
     <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
     
+    <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
+    
     <category term="Kubernetes" scheme="https://memochou1993.github.io/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://memochou1993.github.io/tags/minikube/"/>
-    
-    <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
     
   </entry>
   
@@ -9972,11 +10007,11 @@
     
     <category term="Docker" scheme="https://memochou1993.github.io/tags/Docker/"/>
     
+    <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
+    
     <category term="Kubernetes" scheme="https://memochou1993.github.io/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://memochou1993.github.io/tags/minikube/"/>
-    
-    <category term="CI/CD" scheme="https://memochou1993.github.io/tags/CI-CD/"/>
     
   </entry>
   
@@ -11184,11 +11219,11 @@
     
     <category term="Laradock" scheme="https://memochou1993.github.io/tags/Laradock/"/>
     
-    <category term="Caddy" scheme="https://memochou1993.github.io/tags/Caddy/"/>
+    <category term="SSL" scheme="https://memochou1993.github.io/tags/SSL/"/>
     
     <category term="HTTPS" scheme="https://memochou1993.github.io/tags/HTTPS/"/>
     
-    <category term="SSL" scheme="https://memochou1993.github.io/tags/SSL/"/>
+    <category term="Caddy" scheme="https://memochou1993.github.io/tags/Caddy/"/>
     
   </entry>
   
@@ -11854,11 +11889,11 @@
     
     <category term="Laradock" scheme="https://memochou1993.github.io/tags/Laradock/"/>
     
-    <category term="HTTPS" scheme="https://memochou1993.github.io/tags/HTTPS/"/>
-    
     <category term="Nginx" scheme="https://memochou1993.github.io/tags/Nginx/"/>
     
     <category term="SSL" scheme="https://memochou1993.github.io/tags/SSL/"/>
+    
+    <category term="HTTPS" scheme="https://memochou1993.github.io/tags/HTTPS/"/>
     
   </entry>
   
@@ -11891,9 +11926,9 @@
     
     <category term="Laravel" scheme="https://memochou1993.github.io/tags/Laravel/"/>
     
-    <category term="Mix" scheme="https://memochou1993.github.io/tags/Mix/"/>
-    
     <category term="JavaScript" scheme="https://memochou1993.github.io/tags/JavaScript/"/>
+    
+    <category term="Mix" scheme="https://memochou1993.github.io/tags/Mix/"/>
     
     <category term="Vue" scheme="https://memochou1993.github.io/tags/Vue/"/>
     
@@ -15230,9 +15265,9 @@
     
     <category term="套件開發" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
-    
     <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
+    
+    <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
     
   </entry>
   
@@ -15267,9 +15302,9 @@
     
     <category term="套件開發" scheme="https://memochou1993.github.io/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
-    
     <category term="YouTube" scheme="https://memochou1993.github.io/tags/YouTube/"/>
+    
+    <category term="Packagist" scheme="https://memochou1993.github.io/tags/Packagist/"/>
     
   </entry>
   
