@@ -6,7 +6,7 @@
   <link href="https://memochou1993.github.io/atom.xml" rel="self"/>
   
   <link href="https://memochou1993.github.io/"/>
-  <updated>2022-11-22T08:55:28.083Z</updated>
+  <updated>2022-11-22T18:00:15.698Z</updated>
   <id>https://memochou1993.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 JavaScript 解析 XML 檔案</title>
+    <link href="https://memochou1993.github.io/2022/11/%E4%BD%BF%E7%94%A8-JavaScript-%E8%A7%A3%E6%9E%90-XML-%E6%AA%94%E6%A1%88/"/>
+    <id>https://memochou1993.github.io/2022/11/%E4%BD%BF%E7%94%A8-JavaScript-%E8%A7%A3%E6%9E%90-XML-%E6%AA%94%E6%A1%88/</id>
+    <published>2022-11-22T18:00:15.000Z</published>
+    <updated>2022-11-22T18:00:15.698Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在 Echo 4 使用 JSON Web Token 和 RSA 加密演算法實作 API 認證</title>
+    <link href="https://memochou1993.github.io/2022/11/%E5%9C%A8-Echo-4-%E4%BD%BF%E7%94%A8-JSON-Web-Token-%E5%92%8C-RSA-%E5%8A%A0%E5%AF%86%E6%BC%94%E7%AE%97%E6%B3%95%E5%AF%A6%E4%BD%9C-API-%E8%AA%8D%E8%AD%89/"/>
+    <id>https://memochou1993.github.io/2022/11/%E5%9C%A8-Echo-4-%E4%BD%BF%E7%94%A8-JSON-Web-Token-%E5%92%8C-RSA-%E5%8A%A0%E5%AF%86%E6%BC%94%E7%AE%97%E6%B3%95%E5%AF%A6%E4%BD%9C-API-%E8%AA%8D%E8%AD%89/</id>
+    <published>2022-11-22T17:18:41.000Z</published>
+    <updated>2022-11-22T17:18:41.646Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>在 Hexo 部落格新增 404 頁面</title>
@@ -12629,11 +12655,11 @@
   </entry>
   
   <entry>
-    <title>使用 rsync 指令部署 Vue 專案</title>
-    <link href="https://memochou1993.github.io/2019/05/%E4%BD%BF%E7%94%A8-rsync-%E6%8C%87%E4%BB%A4%E9%83%A8%E7%BD%B2-Vue-%E5%B0%88%E6%A1%88/"/>
-    <id>https://memochou1993.github.io/2019/05/%E4%BD%BF%E7%94%A8-rsync-%E6%8C%87%E4%BB%A4%E9%83%A8%E7%BD%B2-Vue-%E5%B0%88%E6%A1%88/</id>
+    <title>使用 rsync 指令部署前端專案</title>
+    <link href="https://memochou1993.github.io/2019/05/%E4%BD%BF%E7%94%A8-rsync-%E6%8C%87%E4%BB%A4%E9%83%A8%E7%BD%B2%E5%89%8D%E7%AB%AF%E5%B0%88%E6%A1%88/"/>
+    <id>https://memochou1993.github.io/2019/05/%E4%BD%BF%E7%94%A8-rsync-%E6%8C%87%E4%BB%A4%E9%83%A8%E7%BD%B2%E5%89%8D%E7%AB%AF%E5%B0%88%E6%A1%88/</id>
     <published>2019-05-08T16:59:48.000Z</published>
-    <updated>2022-11-21T06:20:51.608Z</updated>
+    <updated>2022-11-22T17:51:40.441Z</updated>
     
     
       
@@ -12654,7 +12680,7 @@
     
     <category term="Vue" scheme="https://memochou1993.github.io/tags/Vue/"/>
     
-    <category term="Vuex" scheme="https://memochou1993.github.io/tags/Vuex/"/>
+    <category term="React" scheme="https://memochou1993.github.io/tags/React/"/>
     
   </entry>
   
