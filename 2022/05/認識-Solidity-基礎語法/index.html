@@ -11,7 +11,7 @@
     <meta name="description" content="前言本文將認識 Solidity 的基礎語法，並使用 Remix IDE 線上編輯器進行撰寫。 建立專案在編輯器上建立一個 MyContract.sol 檔。 許可標識每份合約檔案都應添加其許可標識在開頭的註解中。 1&#x2F;&#x2F; SPDX-License-Identifier: MIT  編譯指示關鍵字 pragma 是編譯指示，用來啟用編譯器檢查，編譯指示通常只對該檔案有效，所以需要把這個編譯指示添加">
 <meta property="og:type" content="article">
 <meta property="og:title" content="認識 Solidity 基礎語法">
-<meta property="og:url" content="https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/index.html">
+<meta property="og:url" content="https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/index.html">
 <meta property="og:site_name" content="Memo&#39;s Blog">
 <meta property="og:description" content="前言本文將認識 Solidity 的基礎語法，並使用 Remix IDE 線上編輯器進行撰寫。 建立專案在編輯器上建立一個 MyContract.sol 檔。 許可標識每份合約檔案都應添加其許可標識在開頭的註解中。 1&#x2F;&#x2F; SPDX-License-Identifier: MIT  編譯指示關鍵字 pragma 是編譯指示，用來啟用編譯器檢查，編譯指示通常只對該檔案有效，所以需要把這個編譯指示添加">
 <meta property="og:locale" content="en_US">
@@ -112,16 +112,16 @@
     <br/>
     <div id="share" style="display: none">
       <ul>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"><i class="fab fa-facebook " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&text=認識 Solidity 基礎語法"><i class="fab fa-twitter " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-linkedin " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&is_video=false&description=認識 Solidity 基礎語法"><i class="fab fa-pinterest " aria-hidden="true"></i></a></li>
-  <li><a class="icon" href="mailto:?subject=認識 Solidity 基礎語法&body=Check out this article: https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"><i class="fas fa-envelope " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-get-pocket " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-reddit " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-stumbleupon " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-digg " aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&name=認識 Solidity 基礎語法&description="><i class="fab fa-tumblr " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"><i class="fab fa-facebook " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&text=認識 Solidity 基礎語法"><i class="fab fa-twitter " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-linkedin " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&is_video=false&description=認識 Solidity 基礎語法"><i class="fab fa-pinterest " aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="mailto:?subject=認識 Solidity 基礎語法&body=Check out this article: https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"><i class="fas fa-envelope " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-get-pocket " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-reddit " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-stumbleupon " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-digg " aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&name=認識 Solidity 基礎語法&description="><i class="fab fa-tumblr " aria-hidden="true"></i></a></li>
 </ul>
 
     </div>
@@ -322,16 +322,16 @@
 
     <div id="share-footer" style="display: none">
       <ul>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&text=認識 Solidity 基礎語法"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&is_video=false&description=認識 Solidity 基礎語法"><i class="fab fa-pinterest fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" href="mailto:?subject=認識 Solidity 基礎語法&body=Check out this article: https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"><i class="fas fa-envelope fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-reddit fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-stumbleupon fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-digg fa-lg" aria-hidden="true"></i></a></li>
-  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=https://memochou1993.github.io/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&name=認識 Solidity 基礎語法&description="><i class="fab fa-tumblr fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.facebook.com/sharer.php?u=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://twitter.com/share?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&text=認識 Solidity 基礎語法"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.linkedin.com/shareArticle?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://pinterest.com/pin/create/bookmarklet/?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&is_video=false&description=認識 Solidity 基礎語法"><i class="fab fa-pinterest fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" href="mailto:?subject=認識 Solidity 基礎語法&body=Check out this article: https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/"><i class="fas fa-envelope fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="https://getpocket.com/save?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://reddit.com/submit?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-reddit fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.stumbleupon.com/submit?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-stumbleupon fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://digg.com/submit?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&title=認識 Solidity 基礎語法"><i class="fab fa-digg fa-lg" aria-hidden="true"></i></a></li>
+  <li><a class="icon" target="_blank" rel="noopener" href="http://www.tumblr.com/share/link?url=https://blog.epoch.tw/2022/05/%E8%AA%8D%E8%AD%98-Solidity-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95/&name=認識 Solidity 基礎語法&description="><i class="fab fa-tumblr fa-lg" aria-hidden="true"></i></a></li>
 </ul>
 
     </div>
