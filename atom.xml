@@ -6,7 +6,7 @@
   <link href="https://blog.epoch.tw/atom.xml" rel="self"/>
   
   <link href="https://blog.epoch.tw/"/>
-  <updated>2022-12-05T16:37:17.617Z</updated>
+  <updated>2022-12-06T16:47:08.509Z</updated>
   <id>https://blog.epoch.tw/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 Node 建立 Line Bot 服務</title>
+    <link href="https://blog.epoch.tw/2022/12/%E4%BD%BF%E7%94%A8-Node-%E5%BB%BA%E7%AB%8B-Line-Bot-%E6%9C%8D%E5%8B%99/"/>
+    <id>https://blog.epoch.tw/2022/12/%E4%BD%BF%E7%94%A8-Node-%E5%BB%BA%E7%AB%8B-Line-Bot-%E6%9C%8D%E5%8B%99/</id>
+    <published>2022-12-06T16:32:23.000Z</published>
+    <updated>2022-12-06T16:47:08.509Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;建立頻道&quot;&gt;&lt;a href=&quot;#建立頻道&quot; class=&quot;headerlink&quot; title=&quot;建立頻道&quot;&gt;&lt;/a&gt;建立頻道&lt;/h2&gt;&lt;p&gt;首先，登入 &lt;a href=&quot;https://developers.line.biz/&quot;&gt;LINE Developers&lt;/</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/"/>
+    
+    <category term="Node" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/Node/"/>
+    
+    
+    <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
+    
+    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
+    <category term="Line" scheme="https://blog.epoch.tw/tags/Line/"/>
+    
+  </entry>
   
   <entry>
     <title>在 Rust 專案讀取 .env 環境變數</title>
@@ -483,11 +515,11 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
+    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
     <category term="gRPC" scheme="https://blog.epoch.tw/tags/gRPC/"/>
     
     <category term="RPC" scheme="https://blog.epoch.tw/tags/RPC/"/>
-    
-    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
     
   </entry>
   
@@ -776,9 +808,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="CLI" scheme="https://blog.epoch.tw/tags/CLI/"/>
-    
     <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
+    <category term="CLI" scheme="https://blog.epoch.tw/tags/CLI/"/>
     
   </entry>
   
@@ -2866,11 +2898,11 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
+    <category term="React" scheme="https://blog.epoch.tw/tags/React/"/>
+    
     <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
     
     <category term="Vite" scheme="https://blog.epoch.tw/tags/Vite/"/>
-    
-    <category term="React" scheme="https://blog.epoch.tw/tags/React/"/>
     
     <category term="Storybook" scheme="https://blog.epoch.tw/tags/Storybook/"/>
     
@@ -5031,9 +5063,9 @@
     
     <category term="Docker" scheme="https://blog.epoch.tw/tags/Docker/"/>
     
-    <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
-    
     <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
+    
+    <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
     
   </entry>
   
@@ -5593,9 +5625,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="爬蟲" scheme="https://blog.epoch.tw/tags/%E7%88%AC%E8%9F%B2/"/>
-    
     <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
+    <category term="爬蟲" scheme="https://blog.epoch.tw/tags/%E7%88%AC%E8%9F%B2/"/>
     
   </entry>
   
@@ -5626,9 +5658,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="爬蟲" scheme="https://blog.epoch.tw/tags/%E7%88%AC%E8%9F%B2/"/>
-    
     <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
+    <category term="爬蟲" scheme="https://blog.epoch.tw/tags/%E7%88%AC%E8%9F%B2/"/>
     
   </entry>
   
@@ -5875,9 +5907,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="WebSocket" scheme="https://blog.epoch.tw/tags/WebSocket/"/>
-    
     <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
+    <category term="WebSocket" scheme="https://blog.epoch.tw/tags/WebSocket/"/>
     
   </entry>
   
@@ -5908,9 +5940,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="WebSocket" scheme="https://blog.epoch.tw/tags/WebSocket/"/>
-    
     <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
+    <category term="WebSocket" scheme="https://blog.epoch.tw/tags/WebSocket/"/>
     
   </entry>
   
@@ -6285,9 +6317,9 @@
     
     <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
     
-    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
-    
     <category term="EC2" scheme="https://blog.epoch.tw/tags/EC2/"/>
+    
+    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
     
   </entry>
   
@@ -6761,9 +6793,9 @@
     
     <category term="Vue" scheme="https://blog.epoch.tw/tags/Vue/"/>
     
-    <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
-    
     <category term="Localization" scheme="https://blog.epoch.tw/tags/Localization/"/>
+    
+    <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
     
   </entry>
   
@@ -7214,9 +7246,9 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="Dart" scheme="https://blog.epoch.tw/tags/Dart/"/>
-    
     <category term="WebSocket" scheme="https://blog.epoch.tw/tags/WebSocket/"/>
+    
+    <category term="Dart" scheme="https://blog.epoch.tw/tags/Dart/"/>
     
   </entry>
   
@@ -7362,11 +7394,11 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
+    <category term="Chrome" scheme="https://blog.epoch.tw/tags/Chrome/"/>
+    
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
     
     <category term="Selenium" scheme="https://blog.epoch.tw/tags/Selenium/"/>
-    
-    <category term="Chrome" scheme="https://blog.epoch.tw/tags/Chrome/"/>
     
   </entry>
   
@@ -7426,9 +7458,9 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
-    
     <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
+    
+    <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
     
     <category term="S3" scheme="https://blog.epoch.tw/tags/S3/"/>
     
@@ -7462,9 +7494,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
-    
     <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
+    
+    <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
     
     <category term="Jest" scheme="https://blog.epoch.tw/tags/Jest/"/>
     
@@ -7530,11 +7562,11 @@
     
     <category term="環境部署" scheme="https://blog.epoch.tw/tags/%E7%92%B0%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
     
+    <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
+    
     <category term="Kubernetes" scheme="https://blog.epoch.tw/tags/Kubernetes/"/>
     
     <category term="Ingress" scheme="https://blog.epoch.tw/tags/Ingress/"/>
-    
-    <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
     
   </entry>
   
@@ -7752,9 +7784,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
-    
     <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
+    
+    <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
     
     <category term="Jest" scheme="https://blog.epoch.tw/tags/Jest/"/>
     
@@ -8428,7 +8460,7 @@
     <link href="https://blog.epoch.tw/2020/11/%E4%BD%BF%E7%94%A8-Go-%E5%BB%BA%E7%AB%8B-Line-Notify-%E6%8E%A8%E6%92%AD%E6%9C%8D%E5%8B%99/"/>
     <id>https://blog.epoch.tw/2020/11/%E4%BD%BF%E7%94%A8-Go-%E5%BB%BA%E7%AB%8B-Line-Notify-%E6%8E%A8%E6%92%AD%E6%9C%8D%E5%8B%99/</id>
     <published>2020-11-29T13:44:12.000Z</published>
-    <updated>2022-10-06T17:26:45.217Z</updated>
+    <updated>2022-12-06T15:26:38.635Z</updated>
     
     
       
@@ -8454,16 +8486,16 @@
   </entry>
   
   <entry>
-    <title>使用 Go 建立 Line 聊天機器人服務</title>
+    <title>使用 Go 建立 Line Bot 服務</title>
     <link href="https://blog.epoch.tw/2020/11/%E4%BD%BF%E7%94%A8-Go-%E5%BB%BA%E7%AB%8B-Line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%9C%8D%E5%8B%99/"/>
     <id>https://blog.epoch.tw/2020/11/%E4%BD%BF%E7%94%A8-Go-%E5%BB%BA%E7%AB%8B-Line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%9C%8D%E5%8B%99/</id>
     <published>2020-11-28T14:34:33.000Z</published>
-    <updated>2022-10-06T17:26:45.217Z</updated>
+    <updated>2022-12-06T16:46:31.868Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;建立頻道&quot;&gt;&lt;a href=&quot;#建立頻道&quot; class=&quot;headerlink&quot; title=&quot;建立頻道&quot;&gt;&lt;/a&gt;建立頻道&lt;/h2&gt;&lt;p&gt;登入 &lt;a href=&quot;https://developers.line.biz/&quot;&gt;LINE Developers&lt;/a&gt; </summary>
+    <summary type="html">&lt;h2 id=&quot;建立頻道&quot;&gt;&lt;a href=&quot;#建立頻道&quot; class=&quot;headerlink&quot; title=&quot;建立頻道&quot;&gt;&lt;/a&gt;建立頻道&lt;/h2&gt;&lt;p&gt;首先，登入 &lt;a href=&quot;https://developers.line.biz/&quot;&gt;LINE Developers&lt;/</summary>
       
     
     
@@ -9356,9 +9388,9 @@
     
     <category term="Vue" scheme="https://blog.epoch.tw/tags/Vue/"/>
     
-    <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
-    
     <category term="Vuetify" scheme="https://blog.epoch.tw/tags/Vuetify/"/>
+    
+    <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
     
   </entry>
   
@@ -9828,11 +9860,11 @@
     
     <category term="Laravel" scheme="https://blog.epoch.tw/tags/Laravel/"/>
     
+    <category term="套件開發" scheme="https://blog.epoch.tw/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
+    
     <category term="Testing" scheme="https://blog.epoch.tw/tags/Testing/"/>
     
     <category term="PHPUnit" scheme="https://blog.epoch.tw/tags/PHPUnit/"/>
-    
-    <category term="套件開發" scheme="https://blog.epoch.tw/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
   </entry>
   
@@ -10254,11 +10286,11 @@
     
     <category term="Docker" scheme="https://blog.epoch.tw/tags/Docker/"/>
     
+    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
+    
     <category term="Kubernetes" scheme="https://blog.epoch.tw/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://blog.epoch.tw/tags/minikube/"/>
-    
-    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
     
   </entry>
   
@@ -10288,11 +10320,11 @@
     
     <category term="Docker" scheme="https://blog.epoch.tw/tags/Docker/"/>
     
+    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
+    
     <category term="Kubernetes" scheme="https://blog.epoch.tw/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://blog.epoch.tw/tags/minikube/"/>
-    
-    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
     
   </entry>
   
@@ -11500,11 +11532,11 @@
     
     <category term="Laradock" scheme="https://blog.epoch.tw/tags/Laradock/"/>
     
+    <category term="SSL" scheme="https://blog.epoch.tw/tags/SSL/"/>
+    
     <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
     
     <category term="Caddy" scheme="https://blog.epoch.tw/tags/Caddy/"/>
-    
-    <category term="SSL" scheme="https://blog.epoch.tw/tags/SSL/"/>
     
   </entry>
   
@@ -12170,11 +12202,11 @@
     
     <category term="Laradock" scheme="https://blog.epoch.tw/tags/Laradock/"/>
     
-    <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
-    
     <category term="Nginx" scheme="https://blog.epoch.tw/tags/Nginx/"/>
     
     <category term="SSL" scheme="https://blog.epoch.tw/tags/SSL/"/>
+    
+    <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
     
   </entry>
   
@@ -12547,9 +12579,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
-    
     <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
+    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
     
     <category term="套件管理工具" scheme="https://blog.epoch.tw/tags/%E5%A5%97%E4%BB%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
     
@@ -14370,9 +14402,9 @@
     
     <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
     
-    <category term="網頁伺服器" scheme="https://blog.epoch.tw/tags/%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8/"/>
-    
     <category term="Nginx" scheme="https://blog.epoch.tw/tags/Nginx/"/>
+    
+    <category term="網頁伺服器" scheme="https://blog.epoch.tw/tags/%E7%B6%B2%E9%A0%81%E4%BC%BA%E6%9C%8D%E5%99%A8/"/>
     
   </entry>
   
@@ -15131,9 +15163,9 @@
     
     <category term="Laravel" scheme="https://blog.epoch.tw/tags/Laravel/"/>
     
-    <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
-    
     <category term="Xdebug" scheme="https://blog.epoch.tw/tags/Xdebug/"/>
+    
+    <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
     
   </entry>
   
