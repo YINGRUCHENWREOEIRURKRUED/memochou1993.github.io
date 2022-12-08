@@ -6,7 +6,7 @@
   <link href="https://blog.epoch.tw/atom.xml" rel="self"/>
   
   <link href="https://blog.epoch.tw/"/>
-  <updated>2022-12-08T17:37:27.991Z</updated>
+  <updated>2022-12-08T17:50:26.186Z</updated>
   <id>https://blog.epoch.tw/</id>
   
   <author>
@@ -17,17 +17,48 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>使用 Rust 透過 OpenAI API 與 AI 聊天</title>
+    <link href="https://blog.epoch.tw/2022/12/%E4%BD%BF%E7%94%A8-Rust-%E9%80%8F%E9%81%8E-OpenAI-API-%E8%88%87-AI-%E8%81%8A%E5%A4%A9/"/>
+    <id>https://blog.epoch.tw/2022/12/%E4%BD%BF%E7%94%A8-Rust-%E9%80%8F%E9%81%8E-OpenAI-API-%E8%88%87-AI-%E8%81%8A%E5%A4%A9/</id>
+    <published>2022-12-08T16:17:05.000Z</published>
+    <updated>2022-12-08T17:50:26.186Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前置作業&quot;&gt;&lt;a href=&quot;#前置作業&quot; class=&quot;headerlink&quot; title=&quot;前置作業&quot;&gt;&lt;/a&gt;前置作業&lt;/h2&gt;&lt;p&gt;在 &lt;a href=&quot;https://openai.com/api/&quot;&gt;OpenAI&lt;/a&gt; 註冊一個帳號，並且在 &lt;a h</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Rust" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Rust/"/>
+    
+    <category term="其他" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Rust/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="AI" scheme="https://blog.epoch.tw/tags/AI/"/>
+    
+    <category term="OpenAI" scheme="https://blog.epoch.tw/tags/OpenAI/"/>
+    
+  </entry>
+  
+  <entry>
     <title>使用 Node 透過 OpenAI API 與 AI 聊天</title>
     <link href="https://blog.epoch.tw/2022/12/%E4%BD%BF%E7%94%A8-Node-%E9%80%8F%E9%81%8E-OpenAI-API-%E8%88%87-AI-%E8%81%8A%E5%A4%A9/"/>
     <id>https://blog.epoch.tw/2022/12/%E4%BD%BF%E7%94%A8-Node-%E9%80%8F%E9%81%8E-OpenAI-API-%E8%88%87-AI-%E8%81%8A%E5%A4%A9/</id>
     <published>2022-12-07T16:16:47.000Z</published>
-    <updated>2022-12-08T17:37:27.991Z</updated>
+    <updated>2022-12-08T17:50:48.211Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;建立專案&quot;&gt;&lt;a href=&quot;#建立專案&quot; class=&quot;headerlink&quot; title=&quot;建立專案&quot;&gt;&lt;/a&gt;建立專案&lt;/h2&gt;&lt;p&gt;建立專案。&lt;/p&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=</summary>
+    <summary type="html">&lt;h2 id=&quot;前置作業&quot;&gt;&lt;a href=&quot;#前置作業&quot; class=&quot;headerlink&quot; title=&quot;前置作業&quot;&gt;&lt;/a&gt;前置作業&lt;/h2&gt;&lt;p&gt;在 &lt;a href=&quot;https://openai.com/api/&quot;&gt;OpenAI&lt;/a&gt; 註冊一個帳號，並且在 &lt;a h</summary>
       
     
     
@@ -44,6 +75,8 @@
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
     <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
+    <category term="AI" scheme="https://blog.epoch.tw/tags/AI/"/>
     
     <category term="OpenAI" scheme="https://blog.epoch.tw/tags/OpenAI/"/>
     
@@ -451,11 +484,11 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
-    
     <category term="ESLint" scheme="https://blog.epoch.tw/tags/ESLint/"/>
     
     <category term="Airbnb" scheme="https://blog.epoch.tw/tags/Airbnb/"/>
+    
+    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
     
   </entry>
   
@@ -1364,9 +1397,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
-    
     <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
+    
+    <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
     <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
@@ -2823,9 +2856,9 @@
     
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
@@ -2862,9 +2895,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
@@ -2929,9 +2962,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="Raydium" scheme="https://blog.epoch.tw/tags/Raydium/"/>
     
@@ -3087,9 +3120,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
   </entry>
   
@@ -3151,9 +3184,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
   </entry>
   
@@ -3186,9 +3219,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
   </entry>
   
@@ -4445,11 +4478,11 @@
     
     <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
     
-    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
-    
     <category term="S3" scheme="https://blog.epoch.tw/tags/S3/"/>
     
     <category term="Storage Service" scheme="https://blog.epoch.tw/tags/Storage-Service/"/>
+    
+    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
     
   </entry>
   
@@ -8264,30 +8297,6 @@
   </entry>
   
   <entry>
-    <title>在 Shell 腳本中指定輸出文字的顏色</title>
-    <link href="https://blog.epoch.tw/2020/12/%E5%9C%A8-Shell-%E8%85%B3%E6%9C%AC%E4%B8%AD%E6%8C%87%E5%AE%9A%E8%BC%B8%E5%87%BA%E6%96%87%E5%AD%97%E7%9A%84%E9%A1%8F%E8%89%B2/"/>
-    <id>https://blog.epoch.tw/2020/12/%E5%9C%A8-Shell-%E8%85%B3%E6%9C%AC%E4%B8%AD%E6%8C%87%E5%AE%9A%E8%BC%B8%E5%87%BA%E6%96%87%E5%AD%97%E7%9A%84%E9%A1%8F%E8%89%B2/</id>
-    <published>2020-12-10T05:38:02.000Z</published>
-    <updated>2022-11-27T14:32:24.775Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;在 Bash 中，可以藉由解析跳脫序列（escape sequences）來顯示不同的顏色或格式。跳脫序列由許多跳脫字元（escape ch</summary>
-      
-    
-    
-    
-    <category term="程式設計" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
-    
-    <category term="Shell" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Shell/"/>
-    
-    
-    <category term="Shell" scheme="https://blog.epoch.tw/tags/Shell/"/>
-    
-  </entry>
-  
-  <entry>
     <title>使用 Go 為標準輸出添加顏色</title>
     <link href="https://blog.epoch.tw/2020/12/%E4%BD%BF%E7%94%A8-Go-%E7%82%BA%E6%A8%99%E6%BA%96%E8%BC%B8%E5%87%BA%E6%B7%BB%E5%8A%A0%E9%A1%8F%E8%89%B2/"/>
     <id>https://blog.epoch.tw/2020/12/%E4%BD%BF%E7%94%A8-Go-%E7%82%BA%E6%A8%99%E6%BA%96%E8%BC%B8%E5%87%BA%E6%B7%BB%E5%8A%A0%E9%A1%8F%E8%89%B2/</id>
@@ -8313,6 +8322,30 @@
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 Shell 腳本中指定輸出文字的顏色</title>
+    <link href="https://blog.epoch.tw/2020/12/%E5%9C%A8-Shell-%E8%85%B3%E6%9C%AC%E4%B8%AD%E6%8C%87%E5%AE%9A%E8%BC%B8%E5%87%BA%E6%96%87%E5%AD%97%E7%9A%84%E9%A1%8F%E8%89%B2/"/>
+    <id>https://blog.epoch.tw/2020/12/%E5%9C%A8-Shell-%E8%85%B3%E6%9C%AC%E4%B8%AD%E6%8C%87%E5%AE%9A%E8%BC%B8%E5%87%BA%E6%96%87%E5%AD%97%E7%9A%84%E9%A1%8F%E8%89%B2/</id>
+    <published>2020-12-10T05:38:02.000Z</published>
+    <updated>2022-11-27T14:32:24.775Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;在 Bash 中，可以藉由解析跳脫序列（escape sequences）來顯示不同的顏色或格式。跳脫序列由許多跳脫字元（escape ch</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Shell" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Shell/"/>
+    
+    
+    <category term="Shell" scheme="https://blog.epoch.tw/tags/Shell/"/>
     
   </entry>
   
@@ -9926,11 +9959,11 @@
     
     <category term="Laravel" scheme="https://blog.epoch.tw/tags/Laravel/"/>
     
-    <category term="套件開發" scheme="https://blog.epoch.tw/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
-    
     <category term="Testing" scheme="https://blog.epoch.tw/tags/Testing/"/>
     
     <category term="PHPUnit" scheme="https://blog.epoch.tw/tags/PHPUnit/"/>
+    
+    <category term="套件開發" scheme="https://blog.epoch.tw/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
   </entry>
   
@@ -15229,9 +15262,9 @@
     
     <category term="Laravel" scheme="https://blog.epoch.tw/tags/Laravel/"/>
     
-    <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
-    
     <category term="Xdebug" scheme="https://blog.epoch.tw/tags/Xdebug/"/>
+    
+    <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
     
   </entry>
   
@@ -16267,9 +16300,9 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="Python" scheme="https://blog.epoch.tw/tags/Python/"/>
-    
     <category term="物件導向" scheme="https://blog.epoch.tw/tags/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91/"/>
+    
+    <category term="Python" scheme="https://blog.epoch.tw/tags/Python/"/>
     
   </entry>
   
@@ -16325,9 +16358,9 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="Python" scheme="https://blog.epoch.tw/tags/Python/"/>
-    
     <category term="物件導向" scheme="https://blog.epoch.tw/tags/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91/"/>
+    
+    <category term="Python" scheme="https://blog.epoch.tw/tags/Python/"/>
     
   </entry>
   
