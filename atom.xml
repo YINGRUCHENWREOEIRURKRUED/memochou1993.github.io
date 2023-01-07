@@ -6,7 +6,7 @@
   <link href="https://blog.epoch.tw/atom.xml" rel="self"/>
   
   <link href="https://blog.epoch.tw/"/>
-  <updated>2023-01-07T10:13:30.487Z</updated>
+  <updated>2023-01-07T17:33:11.937Z</updated>
   <id>https://blog.epoch.tw/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.epoch.tw/2023/01/%E4%BD%BF%E7%94%A8-Node-%E5%AF%A6%E4%BD%9C%E3%80%8CGPT-AI-Assistant%E3%80%8D%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA/"/>
     <id>https://blog.epoch.tw/2023/01/%E4%BD%BF%E7%94%A8-Node-%E5%AF%A6%E4%BD%9C%E3%80%8CGPT-AI-Assistant%E3%80%8D%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA/</id>
     <published>2023-01-06T14:41:52.000Z</published>
-    <updated>2023-01-07T10:13:30.487Z</updated>
+    <updated>2023-01-07T17:33:11.937Z</updated>
     
     
       
@@ -4583,9 +4583,9 @@
     
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
     
-    <category term="Message Queue" scheme="https://blog.epoch.tw/tags/Message-Queue/"/>
-    
     <category term="Pub/Sub" scheme="https://blog.epoch.tw/tags/Pub-Sub/"/>
+    
+    <category term="Message Queue" scheme="https://blog.epoch.tw/tags/Message-Queue/"/>
     
     <category term="NSQ" scheme="https://blog.epoch.tw/tags/NSQ/"/>
     
@@ -4616,11 +4616,11 @@
     
     <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
     
+    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
+    
     <category term="S3" scheme="https://blog.epoch.tw/tags/S3/"/>
     
     <category term="Storage Service" scheme="https://blog.epoch.tw/tags/Storage-Service/"/>
-    
-    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
     
   </entry>
   
@@ -4774,9 +4774,9 @@
     
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
     
-    <category term="Message Queue" scheme="https://blog.epoch.tw/tags/Message-Queue/"/>
-    
     <category term="Pub/Sub" scheme="https://blog.epoch.tw/tags/Pub-Sub/"/>
+    
+    <category term="Message Queue" scheme="https://blog.epoch.tw/tags/Message-Queue/"/>
     
   </entry>
   
@@ -5300,9 +5300,9 @@
     
     <category term="Docker" scheme="https://blog.epoch.tw/tags/Docker/"/>
     
-    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
-    
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
+    
+    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
     
   </entry>
   
@@ -7030,9 +7030,9 @@
     
     <category term="Vue" scheme="https://blog.epoch.tw/tags/Vue/"/>
     
-    <category term="Localization" scheme="https://blog.epoch.tw/tags/Localization/"/>
-    
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
+    
+    <category term="Localization" scheme="https://blog.epoch.tw/tags/Localization/"/>
     
   </entry>
   
@@ -7695,9 +7695,9 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
-    
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
+    
+    <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
     
     <category term="S3" scheme="https://blog.epoch.tw/tags/S3/"/>
     
@@ -7731,9 +7731,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
-    
     <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
+    
+    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
     
     <category term="Jest" scheme="https://blog.epoch.tw/tags/Jest/"/>
     
@@ -7799,9 +7799,9 @@
     
     <category term="環境部署" scheme="https://blog.epoch.tw/tags/%E7%92%B0%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
     
-    <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
-    
     <category term="Kubernetes" scheme="https://blog.epoch.tw/tags/Kubernetes/"/>
+    
+    <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
     
     <category term="Ingress" scheme="https://blog.epoch.tw/tags/Ingress/"/>
     
@@ -8021,9 +8021,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
-    
     <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
+    
+    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
     
     <category term="Jest" scheme="https://blog.epoch.tw/tags/Jest/"/>
     
@@ -10523,11 +10523,11 @@
     
     <category term="Docker" scheme="https://blog.epoch.tw/tags/Docker/"/>
     
-    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
-    
     <category term="Kubernetes" scheme="https://blog.epoch.tw/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://blog.epoch.tw/tags/minikube/"/>
+    
+    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
     
   </entry>
   
@@ -10557,11 +10557,11 @@
     
     <category term="Docker" scheme="https://blog.epoch.tw/tags/Docker/"/>
     
-    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
-    
     <category term="Kubernetes" scheme="https://blog.epoch.tw/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://blog.epoch.tw/tags/minikube/"/>
+    
+    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
     
   </entry>
   
@@ -11769,11 +11769,11 @@
     
     <category term="Laradock" scheme="https://blog.epoch.tw/tags/Laradock/"/>
     
+    <category term="Caddy" scheme="https://blog.epoch.tw/tags/Caddy/"/>
+    
     <category term="SSL" scheme="https://blog.epoch.tw/tags/SSL/"/>
     
     <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
-    
-    <category term="Caddy" scheme="https://blog.epoch.tw/tags/Caddy/"/>
     
   </entry>
   
@@ -15400,9 +15400,9 @@
     
     <category term="Laravel" scheme="https://blog.epoch.tw/tags/Laravel/"/>
     
-    <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
-    
     <category term="Xdebug" scheme="https://blog.epoch.tw/tags/Xdebug/"/>
+    
+    <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
     
   </entry>
   
