@@ -6,7 +6,7 @@
   <link href="https://blog.epoch.tw/atom.xml" rel="self"/>
   
   <link href="https://blog.epoch.tw/"/>
-  <updated>2023-01-19T15:19:55.523Z</updated>
+  <updated>2023-01-30T15:48:46.037Z</updated>
   <id>https://blog.epoch.tw/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在 Ethereum 專案使用 Go 對簽章進行驗證</title>
+    <link href="https://blog.epoch.tw/2023/01/%E5%9C%A8-Ethereum-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-Go-%E5%B0%8D%E7%B0%BD%E7%AB%A0%E9%80%B2%E8%A1%8C%E9%A9%97%E8%AD%89/"/>
+    <id>https://blog.epoch.tw/2023/01/%E5%9C%A8-Ethereum-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-Go-%E5%B0%8D%E7%B0%BD%E7%AB%A0%E9%80%B2%E8%A1%8C%E9%A9%97%E8%AD%89/</id>
+    <published>2023-01-30T09:14:22.000Z</published>
+    <updated>2023-01-30T15:48:46.037Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前端&quot;&gt;&lt;a href=&quot;#前端&quot; class=&quot;headerlink&quot; title=&quot;前端&quot;&gt;&lt;/a&gt;前端&lt;/h2&gt;&lt;h3 id=&quot;使用-Ethers-js-套件&quot;&gt;&lt;a href=&quot;#使用-Ethers-js-套件&quot; class=&quot;headerlink&quot; ti</summary>
+      
+    
+    
+    
+    <category term="區塊鏈" scheme="https://blog.epoch.tw/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    <category term="Ethereum" scheme="https://blog.epoch.tw/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/Ethereum/"/>
+    
+    
+    <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
+    
+    <category term="區塊鏈" scheme="https://blog.epoch.tw/tags/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
+    
+    <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
+    
+    <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
+    
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
+    
+  </entry>
   
   <entry>
     <title>在 Laravel 9.0 使用 Mailgun 服務寄送郵件</title>
@@ -917,16 +951,16 @@
   </entry>
   
   <entry>
-    <title>在 Ethereum 專案使用 JavaScript 對資料進行簽名與驗證</title>
-    <link href="https://blog.epoch.tw/2022/10/%E5%9C%A8-Ethereum-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-JavaScript-%E5%B0%8D%E8%B3%87%E6%96%99%E9%80%B2%E8%A1%8C%E7%B0%BD%E5%90%8D%E8%88%87%E9%A9%97%E8%AD%89/"/>
-    <id>https://blog.epoch.tw/2022/10/%E5%9C%A8-Ethereum-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-JavaScript-%E5%B0%8D%E8%B3%87%E6%96%99%E9%80%B2%E8%A1%8C%E7%B0%BD%E5%90%8D%E8%88%87%E9%A9%97%E8%AD%89/</id>
+    <title>在 Ethereum 專案使用 JavaScript 對簽章進行驗證</title>
+    <link href="https://blog.epoch.tw/2022/10/%E5%9C%A8-Ethereum-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-JavaScript-%E5%B0%8D%E7%B0%BD%E7%AB%A0%E9%80%B2%E8%A1%8C%E9%A9%97%E8%AD%89/"/>
+    <id>https://blog.epoch.tw/2022/10/%E5%9C%A8-Ethereum-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-JavaScript-%E5%B0%8D%E7%B0%BD%E7%AB%A0%E9%80%B2%E8%A1%8C%E9%A9%97%E8%AD%89/</id>
     <published>2022-10-16T17:33:06.000Z</published>
-    <updated>2022-10-16T18:14:18.504Z</updated>
+    <updated>2023-01-30T15:48:46.037Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;做法&quot;&gt;&lt;a href=&quot;#做法&quot; class=&quot;headerlink&quot; title=&quot;做法&quot;&gt;&lt;/a&gt;做法&lt;/h2&gt;&lt;h3 id=&quot;使用-Ethers-js-套件&quot;&gt;&lt;a href=&quot;#使用-Ethers-js-套件&quot; class=&quot;headerlink&quot; ti</summary>
+    <summary type="html">&lt;h2 id=&quot;前端&quot;&gt;&lt;a href=&quot;#前端&quot; class=&quot;headerlink&quot; title=&quot;前端&quot;&gt;&lt;/a&gt;前端&lt;/h2&gt;&lt;h3 id=&quot;使用-Ethers-js-套件&quot;&gt;&lt;a href=&quot;#使用-Ethers-js-套件&quot; class=&quot;headerlink&quot; ti</summary>
       
     
     
