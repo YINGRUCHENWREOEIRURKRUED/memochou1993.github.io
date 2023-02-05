@@ -209,6 +209,42 @@
   </entry>
   
   <entry>
+    <title>使用 Node 串接 OpenAI API 實作 Line Bot 聊天機器人</title>
+    <link href="https://blog.epoch.tw/2023/01/%E4%BD%BF%E7%94%A8-Node-%E4%B8%B2%E6%8E%A5-OpenAI-API-%E5%AF%A6%E4%BD%9C-Line-Bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA/"/>
+    <id>https://blog.epoch.tw/2023/01/%E4%BD%BF%E7%94%A8-Node-%E4%B8%B2%E6%8E%A5-OpenAI-API-%E5%AF%A6%E4%BD%9C-Line-Bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA/</id>
+    <published>2023-01-06T14:41:52.000Z</published>
+    <updated>2023-02-05T15:59:53.661Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;ChatGPT 在 2022 年 11 月推出，是由 OpenAI 開發的一個人工智慧聊天機器人程式。而 OpenAI 提供了 GPT-3 </summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/"/>
+    
+    <category term="Node" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/JavaScript/Node/"/>
+    
+    
+    <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
+    
+    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
+    
+    <category term="GPT" scheme="https://blog.epoch.tw/tags/GPT/"/>
+    
+    <category term="AI" scheme="https://blog.epoch.tw/tags/AI/"/>
+    
+    <category term="OpenAI" scheme="https://blog.epoch.tw/tags/OpenAI/"/>
+    
+  </entry>
+  
+  <entry>
     <title>在 Hexo 部落格新增 Google AdSense 廣告</title>
     <link href="https://blog.epoch.tw/2023/01/%E5%9C%A8-Hexo-%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%B0%E5%A2%9E-Google-AdSense-%E5%BB%A3%E5%91%8A/"/>
     <id>https://blog.epoch.tw/2023/01/%E5%9C%A8-Hexo-%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%B0%E5%A2%9E-Google-AdSense-%E5%BB%A3%E5%91%8A/</id>
