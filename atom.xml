@@ -6,7 +6,7 @@
   <link href="https://blog.epoch.tw/atom.xml" rel="self"/>
   
   <link href="https://blog.epoch.tw/"/>
-  <updated>2023-02-06T16:16:22.028Z</updated>
+  <updated>2023-02-07T17:47:23.828Z</updated>
   <id>https://blog.epoch.tw/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 web3modal 2.0 套件連接多種加密貨幣錢包</title>
+    <link href="https://blog.epoch.tw/2023/02/%E4%BD%BF%E7%94%A8-web3modal-%E5%A5%97%E4%BB%B6%E9%80%A3%E6%8E%A5%E5%A4%9A%E7%A8%AE%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E9%8C%A2%E5%8C%85/"/>
+    <id>https://blog.epoch.tw/2023/02/%E4%BD%BF%E7%94%A8-web3modal-%E5%A5%97%E4%BB%B6%E9%80%A3%E6%8E%A5%E5%A4%9A%E7%A8%AE%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E9%8C%A2%E5%8C%85/</id>
+    <published>2023-02-07T15:43:22.000Z</published>
+    <updated>2023-02-07T17:47:23.828Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前置作業&quot;&gt;&lt;a href=&quot;#前置作業&quot; class=&quot;headerlink&quot; title=&quot;前置作業&quot;&gt;&lt;/a&gt;前置作業&lt;/h2&gt;&lt;p&gt;首先，在 &lt;a href=&quot;https://cloud.walletconnect.com/&quot;&gt;WalletConnect&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>使用 JavaScript 調用手機分享菜單</title>
@@ -133,11 +151,11 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
+    
     <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
     
     <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
-    
-    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
   </entry>
   
@@ -423,13 +441,13 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
-    
     <category term="GPT" scheme="https://blog.epoch.tw/tags/GPT/"/>
     
     <category term="AI" scheme="https://blog.epoch.tw/tags/AI/"/>
     
     <category term="OpenAI" scheme="https://blog.epoch.tw/tags/OpenAI/"/>
+    
+    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
     
   </entry>
   
@@ -1069,11 +1087,11 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
+    
     <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
     
     <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
-    
-    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
   </entry>
   
@@ -1779,7 +1797,7 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
@@ -1787,9 +1805,9 @@
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
-    <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
-    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
+    <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
     
     <category term="ERC-1155" scheme="https://blog.epoch.tw/tags/ERC-1155/"/>
     
@@ -1854,17 +1872,17 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
-    
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
-    <category term="Hardhat" scheme="https://blog.epoch.tw/tags/Hardhat/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
+    
+    <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
+    
+    <category term="Hardhat" scheme="https://blog.epoch.tw/tags/Hardhat/"/>
     
     <category term="ERC-721" scheme="https://blog.epoch.tw/tags/ERC-721/"/>
     
@@ -2266,9 +2284,9 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
   </entry>
   
@@ -2299,15 +2317,15 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
-    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
+    <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
     
   </entry>
   
@@ -2337,9 +2355,9 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
   </entry>
   
@@ -2368,9 +2386,9 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
   </entry>
   
@@ -2496,9 +2514,9 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
     
@@ -2687,9 +2705,9 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
     
@@ -2755,9 +2773,9 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
-    
     <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
+    
+    <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
     
   </entry>
   
@@ -2792,9 +2810,9 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
     
@@ -3016,11 +3034,11 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
     
@@ -3055,11 +3073,11 @@
     
     <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
     
@@ -3089,9 +3107,9 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
-    
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
   </entry>
   
@@ -3242,11 +3260,11 @@
     
     <category term="區塊鏈" scheme="https://blog.epoch.tw/tags/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
     
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
@@ -3279,13 +3297,13 @@
     
     <category term="區塊鏈" scheme="https://blog.epoch.tw/tags/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
     
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
-    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
@@ -3346,13 +3364,13 @@
     
     <category term="區塊鏈" scheme="https://blog.epoch.tw/tags/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
     
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
-    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
     <category term="Raydium" scheme="https://blog.epoch.tw/tags/Raydium/"/>
     
@@ -3504,13 +3522,13 @@
     
     <category term="區塊鏈" scheme="https://blog.epoch.tw/tags/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
     
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
-    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
   </entry>
   
@@ -3568,13 +3586,13 @@
     
     <category term="區塊鏈" scheme="https://blog.epoch.tw/tags/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
     
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
-    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
   </entry>
   
@@ -3603,13 +3621,13 @@
     
     <category term="區塊鏈" scheme="https://blog.epoch.tw/tags/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
     
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
-    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
   </entry>
   
@@ -4461,15 +4479,15 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
+    
     <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
     
     <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Hardhat" scheme="https://blog.epoch.tw/tags/Hardhat/"/>
-    
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
-    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
   </entry>
   
@@ -4501,15 +4519,15 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
+    
     <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
     
     <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Hardhat" scheme="https://blog.epoch.tw/tags/Hardhat/"/>
-    
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
-    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
   </entry>
   
@@ -4541,15 +4559,15 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
+    
     <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
     
     <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Hardhat" scheme="https://blog.epoch.tw/tags/Hardhat/"/>
-    
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
-    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
   </entry>
   
@@ -4581,15 +4599,15 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
+    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
+    
+    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
+    
     <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
     
     <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Hardhat" scheme="https://blog.epoch.tw/tags/Hardhat/"/>
-    
-    <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
-    
-    <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
   </entry>
   
@@ -4653,9 +4671,9 @@
     
     <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
     
-    <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
-    
     <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
+    
+    <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
     
   </entry>
   
@@ -4689,9 +4707,9 @@
     
     <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
     
-    <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
-    
     <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
+    
+    <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
     
   </entry>
   
@@ -5550,9 +5568,9 @@
     
     <category term="Docker" scheme="https://blog.epoch.tw/tags/Docker/"/>
     
-    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
-    
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
+    
+    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
     
   </entry>
   
@@ -6112,9 +6130,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
-    
     <category term="爬蟲" scheme="https://blog.epoch.tw/tags/%E7%88%AC%E8%9F%B2/"/>
+    
+    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
     
   </entry>
   
@@ -6145,9 +6163,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
-    
     <category term="爬蟲" scheme="https://blog.epoch.tw/tags/%E7%88%AC%E8%9F%B2/"/>
+    
+    <category term="Node" scheme="https://blog.epoch.tw/tags/Node/"/>
     
   </entry>
   
@@ -7280,9 +7298,9 @@
     
     <category term="Vue" scheme="https://blog.epoch.tw/tags/Vue/"/>
     
-    <category term="Localization" scheme="https://blog.epoch.tw/tags/Localization/"/>
-    
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
+    
+    <category term="Localization" scheme="https://blog.epoch.tw/tags/Localization/"/>
     
   </entry>
   
@@ -7946,9 +7964,9 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
-    
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
+    
+    <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
     
     <category term="S3" scheme="https://blog.epoch.tw/tags/S3/"/>
     
@@ -7982,9 +8000,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
-    
     <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
+    
+    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
     
     <category term="Jest" scheme="https://blog.epoch.tw/tags/Jest/"/>
     
@@ -8050,9 +8068,9 @@
     
     <category term="環境部署" scheme="https://blog.epoch.tw/tags/%E7%92%B0%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
     
-    <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
-    
     <category term="Kubernetes" scheme="https://blog.epoch.tw/tags/Kubernetes/"/>
+    
+    <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
     
     <category term="Ingress" scheme="https://blog.epoch.tw/tags/Ingress/"/>
     
@@ -8272,9 +8290,9 @@
     
     <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
     
-    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
-    
     <category term="TypeScript" scheme="https://blog.epoch.tw/tags/TypeScript/"/>
+    
+    <category term="npm" scheme="https://blog.epoch.tw/tags/npm/"/>
     
     <category term="Jest" scheme="https://blog.epoch.tw/tags/Jest/"/>
     
@@ -10774,11 +10792,11 @@
     
     <category term="Docker" scheme="https://blog.epoch.tw/tags/Docker/"/>
     
-    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
-    
     <category term="Kubernetes" scheme="https://blog.epoch.tw/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://blog.epoch.tw/tags/minikube/"/>
+    
+    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
     
   </entry>
   
@@ -10808,11 +10826,11 @@
     
     <category term="Docker" scheme="https://blog.epoch.tw/tags/Docker/"/>
     
-    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
-    
     <category term="Kubernetes" scheme="https://blog.epoch.tw/tags/Kubernetes/"/>
     
     <category term="minikube" scheme="https://blog.epoch.tw/tags/minikube/"/>
+    
+    <category term="CI/CD" scheme="https://blog.epoch.tw/tags/CI-CD/"/>
     
   </entry>
   
@@ -12020,11 +12038,11 @@
     
     <category term="Laradock" scheme="https://blog.epoch.tw/tags/Laradock/"/>
     
+    <category term="Caddy" scheme="https://blog.epoch.tw/tags/Caddy/"/>
+    
     <category term="SSL" scheme="https://blog.epoch.tw/tags/SSL/"/>
     
     <category term="HTTPS" scheme="https://blog.epoch.tw/tags/HTTPS/"/>
-    
-    <category term="Caddy" scheme="https://blog.epoch.tw/tags/Caddy/"/>
     
   </entry>
   
@@ -12773,7 +12791,7 @@
     <link href="https://blog.epoch.tw/2019/09/%E5%9C%A8-Laravel-6-0-%E4%BD%BF%E7%94%A8-Vue-2-6-%E5%92%8C-Vuetify-2-0-%E5%BB%BA%E7%AB%8B-SPA-%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/"/>
     <id>https://blog.epoch.tw/2019/09/%E5%9C%A8-Laravel-6-0-%E4%BD%BF%E7%94%A8-Vue-2-6-%E5%92%8C-Vuetify-2-0-%E5%BB%BA%E7%AB%8B-SPA-%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/</id>
     <published>2019-09-07T17:16:40.000Z</published>
-    <updated>2022-10-06T17:27:54.042Z</updated>
+    <updated>2023-02-07T17:47:47.948Z</updated>
     
     
       
@@ -16689,9 +16707,9 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="物件導向" scheme="https://blog.epoch.tw/tags/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91/"/>
-    
     <category term="Python" scheme="https://blog.epoch.tw/tags/Python/"/>
+    
+    <category term="物件導向" scheme="https://blog.epoch.tw/tags/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91/"/>
     
   </entry>
   
@@ -16747,9 +16765,9 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
-    <category term="物件導向" scheme="https://blog.epoch.tw/tags/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91/"/>
-    
     <category term="Python" scheme="https://blog.epoch.tw/tags/Python/"/>
+    
+    <category term="物件導向" scheme="https://blog.epoch.tw/tags/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91/"/>
     
   </entry>
   
