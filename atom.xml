@@ -6,7 +6,7 @@
   <link href="https://blog.epoch.tw/atom.xml" rel="self"/>
   
   <link href="https://blog.epoch.tw/"/>
-  <updated>2023-02-08T17:12:20.718Z</updated>
+  <updated>2023-02-08T18:02:15.593Z</updated>
   <id>https://blog.epoch.tw/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在 Nuxt 2.0 使用 Web3Modal 2.0 套件連接多種加密貨幣錢包</title>
+    <link href="https://blog.epoch.tw/2023/02/%E5%9C%A8-Nuxt-2-0-%E4%BD%BF%E7%94%A8-Web3Modal-2-0-%E5%A5%97%E4%BB%B6%E9%80%A3%E6%8E%A5%E5%A4%9A%E7%A8%AE%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E9%8C%A2%E5%8C%85/"/>
+    <id>https://blog.epoch.tw/2023/02/%E5%9C%A8-Nuxt-2-0-%E4%BD%BF%E7%94%A8-Web3Modal-2-0-%E5%A5%97%E4%BB%B6%E9%80%A3%E6%8E%A5%E5%A4%9A%E7%A8%AE%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E9%8C%A2%E5%8C%85/</id>
+    <published>2023-02-08T17:55:34.000Z</published>
+    <updated>2023-02-08T18:02:15.593Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;做法&quot;&gt;&lt;a href=&quot;#做法&quot; class=&quot;headerlink&quot; title=&quot;做法&quot;&gt;&lt;/a&gt;做法&lt;/h2&gt;&lt;p&gt;建立專案。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;</summary>
+      
+    
+    
+    
+    <category term="區塊鏈" scheme="https://blog.epoch.tw/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    <category term="Ethereum" scheme="https://blog.epoch.tw/categories/%E5%8D%80%E5%A1%8A%E9%8F%88/Ethereum/"/>
+    
+    
+    <category term="JavaScript" scheme="https://blog.epoch.tw/tags/JavaScript/"/>
+    
+    <category term="Nuxt" scheme="https://blog.epoch.tw/tags/Nuxt/"/>
+    
+    <category term="區塊鏈" scheme="https://blog.epoch.tw/tags/%E5%8D%80%E5%A1%8A%E9%8F%88/"/>
+    
+    <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
+    
+    <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
+    
+    <category term="wagmi" scheme="https://blog.epoch.tw/tags/wagmi/"/>
+    
+    <category term="web3modal" scheme="https://blog.epoch.tw/tags/web3modal/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 Charles 擷取網路封包</title>
@@ -43,11 +80,11 @@
   </entry>
   
   <entry>
-    <title>使用 web3modal 2.0 套件連接多種加密貨幣錢包</title>
-    <link href="https://blog.epoch.tw/2023/02/%E4%BD%BF%E7%94%A8-web3modal-%E5%A5%97%E4%BB%B6%E9%80%A3%E6%8E%A5%E5%A4%9A%E7%A8%AE%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E9%8C%A2%E5%8C%85/"/>
-    <id>https://blog.epoch.tw/2023/02/%E4%BD%BF%E7%94%A8-web3modal-%E5%A5%97%E4%BB%B6%E9%80%A3%E6%8E%A5%E5%A4%9A%E7%A8%AE%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E9%8C%A2%E5%8C%85/</id>
+    <title>使用 Web3Modal 2.0 套件連接多種加密貨幣錢包</title>
+    <link href="https://blog.epoch.tw/2023/02/%E4%BD%BF%E7%94%A8-Web3Modal-2-0-%E5%A5%97%E4%BB%B6%E9%80%A3%E6%8E%A5%E5%A4%9A%E7%A8%AE%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E9%8C%A2%E5%8C%85/"/>
+    <id>https://blog.epoch.tw/2023/02/%E4%BD%BF%E7%94%A8-Web3Modal-2-0-%E5%A5%97%E4%BB%B6%E9%80%A3%E6%8E%A5%E5%A4%9A%E7%A8%AE%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E9%8C%A2%E5%8C%85/</id>
     <published>2023-02-07T15:43:22.000Z</published>
-    <updated>2023-02-08T16:38:23.285Z</updated>
+    <updated>2023-02-08T17:59:24.293Z</updated>
     
     
       
@@ -13331,7 +13368,7 @@
     <link href="https://blog.epoch.tw/2019/05/%E4%BD%BF%E7%94%A8-Ruby-on-Rails-5-2-%E5%BB%BA%E7%AB%8B-Web-%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/"/>
     <id>https://blog.epoch.tw/2019/05/%E4%BD%BF%E7%94%A8-Ruby-on-Rails-5-2-%E5%BB%BA%E7%AB%8B-Web-%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/</id>
     <published>2019-05-15T06:15:41.000Z</published>
-    <updated>2022-10-06T17:43:33.072Z</updated>
+    <updated>2023-02-08T17:59:47.128Z</updated>
     
     
       
