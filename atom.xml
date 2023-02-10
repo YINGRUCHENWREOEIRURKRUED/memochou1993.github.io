@@ -6,7 +6,7 @@
   <link href="https://blog.epoch.tw/atom.xml" rel="self"/>
   
   <link href="https://blog.epoch.tw/"/>
-  <updated>2023-02-10T07:24:53.402Z</updated>
+  <updated>2023-02-10T07:29:52.793Z</updated>
   <id>https://blog.epoch.tw/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.epoch.tw/2023/02/%E5%9C%A8-Go-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-Redis-%E7%82%BA%E8%B3%87%E6%96%99%E5%BB%BA%E7%AB%8B%E5%BF%AB%E5%8F%96/"/>
     <id>https://blog.epoch.tw/2023/02/%E5%9C%A8-Go-%E5%B0%88%E6%A1%88%E4%BD%BF%E7%94%A8-Redis-%E7%82%BA%E8%B3%87%E6%96%99%E5%BB%BA%E7%AB%8B%E5%BF%AB%E5%8F%96/</id>
     <published>2023-02-10T07:21:35.000Z</published>
-    <updated>2023-02-10T07:24:53.402Z</updated>
+    <updated>2023-02-10T07:29:52.793Z</updated>
     
     
       
@@ -42,8 +42,6 @@
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
     <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
-    
-    <category term="Cache" scheme="https://blog.epoch.tw/tags/Cache/"/>
     
   </entry>
   
