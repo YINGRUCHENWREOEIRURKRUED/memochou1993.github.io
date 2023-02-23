@@ -6,7 +6,7 @@
   <link href="https://blog.epoch.tw/atom.xml" rel="self"/>
   
   <link href="https://blog.epoch.tw/"/>
-  <updated>2023-02-22T03:30:43.184Z</updated>
+  <updated>2023-02-23T16:46:45.446Z</updated>
   <id>https://blog.epoch.tw/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 VuePress 2.0 建立文件網站</title>
+    <link href="https://blog.epoch.tw/2023/02/%E4%BD%BF%E7%94%A8-VuePress-2-0-%E5%BB%BA%E7%AB%8B%E6%96%87%E4%BB%B6%E7%B6%B2%E7%AB%99/"/>
+    <id>https://blog.epoch.tw/2023/02/%E4%BD%BF%E7%94%A8-VuePress-2-0-%E5%BB%BA%E7%AB%8B%E6%96%87%E4%BB%B6%E7%B6%B2%E7%AB%99/</id>
+    <published>2023-02-23T16:40:50.000Z</published>
+    <updated>2023-02-23T16:46:45.446Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;建立專案&quot;&gt;&lt;a href=&quot;#建立專案&quot; class=&quot;headerlink&quot; title=&quot;建立專案&quot;&gt;&lt;/a&gt;建立專案&lt;/h2&gt;&lt;p&gt;建立專案。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=</summary>
+      
+    
+    
+    
+    <category term="靜態網頁生成器" scheme="https://blog.epoch.tw/categories/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E7%94%9F%E6%88%90%E5%99%A8/"/>
+    
+    <category term="VuePress" scheme="https://blog.epoch.tw/categories/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E7%94%9F%E6%88%90%E5%99%A8/VuePress/"/>
+    
+    
+    <category term="Vue" scheme="https://blog.epoch.tw/tags/Vue/"/>
+    
+    <category term="Static Site Generator" scheme="https://blog.epoch.tw/tags/Static-Site-Generator/"/>
+    
+    <category term="VuePress" scheme="https://blog.epoch.tw/tags/VuePress/"/>
+    
+    <category term="Markdown" scheme="https://blog.epoch.tw/tags/Markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>在 macOS 上安裝 PHP 8.1</title>
@@ -2051,7 +2082,7 @@
     <link href="https://blog.epoch.tw/2022/09/%E4%BD%BF%E7%94%A8-VuePress-%E5%BB%BA%E7%AB%8B%E6%96%87%E4%BB%B6%E7%B6%B2%E7%AB%99/"/>
     <id>https://blog.epoch.tw/2022/09/%E4%BD%BF%E7%94%A8-VuePress-%E5%BB%BA%E7%AB%8B%E6%96%87%E4%BB%B6%E7%B6%B2%E7%AB%99/</id>
     <published>2022-09-14T16:16:33.000Z</published>
-    <updated>2022-10-06T17:41:37.540Z</updated>
+    <updated>2023-02-23T16:41:15.836Z</updated>
     
     
       
@@ -2067,9 +2098,13 @@
     <category term="VuePress" scheme="https://blog.epoch.tw/categories/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E7%94%9F%E6%88%90%E5%99%A8/VuePress/"/>
     
     
+    <category term="Vue" scheme="https://blog.epoch.tw/tags/Vue/"/>
+    
     <category term="Static Site Generator" scheme="https://blog.epoch.tw/tags/Static-Site-Generator/"/>
     
     <category term="VuePress" scheme="https://blog.epoch.tw/tags/VuePress/"/>
+    
+    <category term="Markdown" scheme="https://blog.epoch.tw/tags/Markdown/"/>
     
   </entry>
   
