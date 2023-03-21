@@ -16,12 +16,12 @@
 <meta property="og:description" content="前言由於使用 Linode 虛擬專用伺服器，因此需要把在 GoDaddy 購買的網域交由給 Linode 託管。 註冊到 Linode 官方網站註冊，並選擇 5 塊美金的方案。資料中心選擇東京，作業系統則選擇 Ubuntu 18.04 LTS。 轉移網域首先將 GoDaddy 的網域轉移給 Linode 託管，在 GoDaddy 的 DNS 管理使用自訂的網域名稱伺服器。    網域名稱伺服器">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2019-05-07T15:20:15.000Z">
-<meta property="article:modified_time" content="2022-10-03T18:52:22.825Z">
+<meta property="article:modified_time" content="2023-03-21T16:08:28.356Z">
 <meta property="article:author" content="Memo Chou">
 <meta property="article:tag" content="環境部署">
+<meta property="article:tag" content="VPS">
 <meta property="article:tag" content="Linode">
 <meta property="article:tag" content="GoDaddy">
-<meta property="article:tag" content="VPS">
 <meta property="article:tag" content="DNS">
 <meta name="twitter:card" content="summary">
     
@@ -209,7 +209,7 @@
 </tr>
 </tbody></table>
 <h2 id="設定-DNS"><a href="#設定-DNS" class="headerlink" title="設定 DNS"></a>設定 DNS</h2><p>在 Linode 的 Domains 頁面新增一個 Domain。</p>
-<p>編輯 Domain，新增 A&#x2F;AAAA 記錄，並指向主機的 IP 位置。</p>
+<p>編輯 Domain，新增 A&#x2F;AAAA 紀錄，並指向主機的 IP 位置。</p>
 <table>
 <thead>
 <tr>
@@ -226,7 +226,7 @@
 <td>xxx.xxx.xxx.xxx</td>
 </tr>
 </tbody></table>
-<p>新增 CNAME 記錄，設定別名。</p>
+<p>新增 CNAME 紀錄，設定別名。</p>
 <table>
 <thead>
 <tr>
