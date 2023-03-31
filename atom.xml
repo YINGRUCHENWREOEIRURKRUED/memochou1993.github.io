@@ -6,7 +6,7 @@
   <link href="https://blog.epoch.tw/atom.xml" rel="self"/>
   
   <link href="https://blog.epoch.tw/"/>
-  <updated>2023-03-21T16:13:49.467Z</updated>
+  <updated>2023-03-31T17:09:23.892Z</updated>
   <id>https://blog.epoch.tw/</id>
   
   <author>
@@ -17,11 +17,82 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>將 GoDaddy 的電子郵件轉移至 AWS 託管</title>
+    <link href="https://blog.epoch.tw/2023/04/%E5%B0%87-GoDaddy-%E7%9A%84%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6%E8%BD%89%E7%A7%BB%E8%87%B3-AWS-%E8%A8%97%E7%AE%A1/"/>
+    <id>https://blog.epoch.tw/2023/04/%E5%B0%87-GoDaddy-%E7%9A%84%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6%E8%BD%89%E7%A7%BB%E8%87%B3-AWS-%E8%A8%97%E7%AE%A1/</id>
+    <published>2023-03-31T16:59:01.000Z</published>
+    <updated>2023-03-31T17:09:23.892Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;做法&quot;&gt;&lt;a href=&quot;#做法&quot; class=&quot;headerlink&quot; title=&quot;做法&quot;&gt;&lt;/a&gt;做法&lt;/h2&gt;&lt;p&gt;首先，在 AWS Route53 新增一個託管區域。&lt;/p&gt;
+&lt;p&gt;新增 MX 和 TXT 等紀錄，其中 MX 的 Record Name </summary>
+      
+    
+    
+    
+    <category term="雲端運算服務" scheme="https://blog.epoch.tw/categories/%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97%E6%9C%8D%E5%8B%99/"/>
+    
+    <category term="AWS" scheme="https://blog.epoch.tw/categories/%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97%E6%9C%8D%E5%8B%99/AWS/"/>
+    
+    
+    <category term="環境部署" scheme="https://blog.epoch.tw/tags/%E7%92%B0%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
+    
+    <category term="Linux" scheme="https://blog.epoch.tw/tags/Linux/"/>
+    
+    <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
+    
+    <category term="EC2" scheme="https://blog.epoch.tw/tags/EC2/"/>
+    
+    <category term="VPS" scheme="https://blog.epoch.tw/tags/VPS/"/>
+    
+    <category term="GoDaddy" scheme="https://blog.epoch.tw/tags/GoDaddy/"/>
+    
+    <category term="DNS" scheme="https://blog.epoch.tw/tags/DNS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 Echo 4 透過 Rollbar 將錯誤訊息推送至 Slack 頻道</title>
+    <link href="https://blog.epoch.tw/2023/03/%E5%9C%A8-Echo-4-%E9%80%8F%E9%81%8E-Rollbar-%E5%B0%87%E9%8C%AF%E8%AA%A4%E8%A8%8A%E6%81%AF%E6%8E%A8%E9%80%81%E8%87%B3-Slack-%E9%A0%BB%E9%81%93/"/>
+    <id>https://blog.epoch.tw/2023/03/%E5%9C%A8-Echo-4-%E9%80%8F%E9%81%8E-Rollbar-%E5%B0%87%E9%8C%AF%E8%AA%A4%E8%A8%8A%E6%81%AF%E6%8E%A8%E9%80%81%E8%87%B3-Slack-%E9%A0%BB%E9%81%93/</id>
+    <published>2023-03-22T09:13:38.000Z</published>
+    <updated>2023-03-31T16:58:40.535Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前置作業&quot;&gt;&lt;a href=&quot;#前置作業&quot; class=&quot;headerlink&quot; title=&quot;前置作業&quot;&gt;&lt;/a&gt;前置作業&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;註冊 Rollbar 後，新增專案。&lt;/li&gt;
+&lt;li&gt;在專案頁面，點選「Add to Slack」按鈕，取得管</summary>
+      
+    
+    
+    
+    <category term="程式設計" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Go" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Go/"/>
+    
+    <category term="Echo" scheme="https://blog.epoch.tw/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/Go/Echo/"/>
+    
+    
+    <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="Go" scheme="https://blog.epoch.tw/tags/Go/"/>
+    
+    <category term="Echo" scheme="https://blog.epoch.tw/tags/Echo/"/>
+    
+    <category term="Rollbar" scheme="https://blog.epoch.tw/tags/Rollbar/"/>
+    
+  </entry>
+  
+  <entry>
     <title>將 GoDaddy 的網域轉移至 AWS 託管</title>
     <link href="https://blog.epoch.tw/2023/03/%E5%B0%87-GoDaddy-%E7%9A%84%E7%B6%B2%E5%9F%9F%E8%BD%89%E7%A7%BB%E8%87%B3-AWS-%E8%A8%97%E7%AE%A1/"/>
     <id>https://blog.epoch.tw/2023/03/%E5%B0%87-GoDaddy-%E7%9A%84%E7%B6%B2%E5%9F%9F%E8%BD%89%E7%A7%BB%E8%87%B3-AWS-%E8%A8%97%E7%AE%A1/</id>
-    <published>2023-03-21T16:03:17.000Z</published>
-    <updated>2023-03-21T16:13:49.467Z</updated>
+    <published>2023-03-21T09:03:17.000Z</published>
+    <updated>2023-03-31T17:10:15.014Z</updated>
     
     
       
@@ -628,11 +699,11 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
-    
     <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
     
     <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
+    
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
   </entry>
   
@@ -926,13 +997,13 @@
     
     <category term="程式設計" scheme="https://blog.epoch.tw/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/"/>
     
+    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
     <category term="GPT" scheme="https://blog.epoch.tw/tags/GPT/"/>
     
     <category term="AI" scheme="https://blog.epoch.tw/tags/AI/"/>
     
     <category term="OpenAI" scheme="https://blog.epoch.tw/tags/OpenAI/"/>
-    
-    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
     
   </entry>
   
@@ -1534,9 +1605,9 @@
     <category term="Redoc" scheme="https://blog.epoch.tw/categories/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E7%94%9F%E6%88%90%E5%99%A8/Redoc/"/>
     
     
-    <category term="Static Site Generator" scheme="https://blog.epoch.tw/tags/Static-Site-Generator/"/>
-    
     <category term="Swagger" scheme="https://blog.epoch.tw/tags/Swagger/"/>
+    
+    <category term="Static Site Generator" scheme="https://blog.epoch.tw/tags/Static-Site-Generator/"/>
     
     <category term="Redoc" scheme="https://blog.epoch.tw/tags/Redoc/"/>
     
@@ -1572,11 +1643,11 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
-    
     <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
     
     <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
+    
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
   </entry>
   
@@ -2286,17 +2357,17 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
-    
     <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
+    <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
+    
     <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
     
-    <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
     <category term="ERC-1155" scheme="https://blog.epoch.tw/tags/ERC-1155/"/>
     
@@ -2806,8 +2877,6 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
-    
     <category term="Solidity" scheme="https://blog.epoch.tw/tags/Solidity/"/>
     
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
@@ -2815,6 +2884,8 @@
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
     <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
+    
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
   </entry>
   
@@ -2945,11 +3016,11 @@
   </entry>
   
   <entry>
-    <title>透過 WebHooks 將 GitLab 事件推送至 Slack 群組</title>
-    <link href="https://blog.epoch.tw/2022/07/%E9%80%8F%E9%81%8E-WebHooks-%E5%B0%87-GitLab-%E4%BA%8B%E4%BB%B6%E6%8E%A8%E9%80%81%E8%87%B3-Slack-%E7%BE%A4%E7%B5%84/"/>
-    <id>https://blog.epoch.tw/2022/07/%E9%80%8F%E9%81%8E-WebHooks-%E5%B0%87-GitLab-%E4%BA%8B%E4%BB%B6%E6%8E%A8%E9%80%81%E8%87%B3-Slack-%E7%BE%A4%E7%B5%84/</id>
+    <title>透過 WebHooks 將 GitLab 事件推送至 Slack 頻道</title>
+    <link href="https://blog.epoch.tw/2022/07/%E9%80%8F%E9%81%8E-WebHooks-%E5%B0%87-GitLab-%E4%BA%8B%E4%BB%B6%E6%8E%A8%E9%80%81%E8%87%B3-Slack-%E9%A0%BB%E9%81%93/"/>
+    <id>https://blog.epoch.tw/2022/07/%E9%80%8F%E9%81%8E-WebHooks-%E5%B0%87-GitLab-%E4%BA%8B%E4%BB%B6%E6%8E%A8%E9%80%81%E8%87%B3-Slack-%E9%A0%BB%E9%81%93/</id>
     <published>2022-07-12T15:56:22.000Z</published>
-    <updated>2022-10-03T18:52:15.060Z</updated>
+    <updated>2023-03-31T16:58:40.534Z</updated>
     
     
       
@@ -3262,9 +3333,9 @@
     
     <category term="Ethereum" scheme="https://blog.epoch.tw/tags/Ethereum/"/>
     
-    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
-    
     <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
+    
+    <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
   </entry>
   
@@ -3751,9 +3822,9 @@
     
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
-    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
@@ -3790,9 +3861,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
@@ -3857,9 +3928,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
     
     <category term="Raydium" scheme="https://blog.epoch.tw/tags/Raydium/"/>
     
@@ -4015,9 +4086,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
     
   </entry>
   
@@ -4079,9 +4150,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
     
   </entry>
   
@@ -4114,9 +4185,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
-    
     <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
+    
+    <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
     
   </entry>
   
@@ -5197,9 +5268,9 @@
     
     <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
     
-    <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
-    
     <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
+    
+    <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
     
   </entry>
   
@@ -5233,9 +5304,9 @@
     
     <category term="Web3" scheme="https://blog.epoch.tw/tags/Web3/"/>
     
-    <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
-    
     <category term="Alchemy" scheme="https://blog.epoch.tw/tags/Alchemy/"/>
+    
+    <category term="MetaMask" scheme="https://blog.epoch.tw/tags/MetaMask/"/>
     
   </entry>
   
@@ -5410,11 +5481,11 @@
     
     <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
     
+    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
+    
     <category term="S3" scheme="https://blog.epoch.tw/tags/S3/"/>
     
     <category term="Storage Service" scheme="https://blog.epoch.tw/tags/Storage-Service/"/>
-    
-    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
     
   </entry>
   
@@ -16205,9 +16276,9 @@
     
     <category term="Laravel" scheme="https://blog.epoch.tw/tags/Laravel/"/>
     
-    <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
-    
     <category term="Xdebug" scheme="https://blog.epoch.tw/tags/Xdebug/"/>
+    
+    <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
     
   </entry>
   
@@ -16620,9 +16691,9 @@
     
     <category term="套件開發" scheme="https://blog.epoch.tw/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="YouTube" scheme="https://blog.epoch.tw/tags/YouTube/"/>
-    
     <category term="Packagist" scheme="https://blog.epoch.tw/tags/Packagist/"/>
+    
+    <category term="YouTube" scheme="https://blog.epoch.tw/tags/YouTube/"/>
     
   </entry>
   
@@ -16657,9 +16728,9 @@
     
     <category term="套件開發" scheme="https://blog.epoch.tw/tags/%E5%A5%97%E4%BB%B6%E9%96%8B%E7%99%BC/"/>
     
-    <category term="YouTube" scheme="https://blog.epoch.tw/tags/YouTube/"/>
-    
     <category term="Packagist" scheme="https://blog.epoch.tw/tags/Packagist/"/>
+    
+    <category term="YouTube" scheme="https://blog.epoch.tw/tags/YouTube/"/>
     
   </entry>
   
