@@ -2363,9 +2363,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
-    
     <category term="Truffle" scheme="https://blog.epoch.tw/tags/Truffle/"/>
+    
+    <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
     <category term="Ethers" scheme="https://blog.epoch.tw/tags/Ethers/"/>
     
@@ -3822,9 +3822,9 @@
     
     <category term="Smart Contract" scheme="https://blog.epoch.tw/tags/Smart-Contract/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
@@ -3861,9 +3861,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="NFT" scheme="https://blog.epoch.tw/tags/NFT/"/>
     
@@ -3928,9 +3928,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
     <category term="Raydium" scheme="https://blog.epoch.tw/tags/Raydium/"/>
     
@@ -4086,9 +4086,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
   </entry>
   
@@ -4150,9 +4150,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
   </entry>
   
@@ -4185,9 +4185,9 @@
     
     <category term="DApp" scheme="https://blog.epoch.tw/tags/DApp/"/>
     
-    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
-    
     <category term="Rust" scheme="https://blog.epoch.tw/tags/Rust/"/>
+    
+    <category term="Solana" scheme="https://blog.epoch.tw/tags/Solana/"/>
     
   </entry>
   
@@ -5481,11 +5481,11 @@
     
     <category term="AWS" scheme="https://blog.epoch.tw/tags/AWS/"/>
     
-    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
-    
     <category term="S3" scheme="https://blog.epoch.tw/tags/S3/"/>
     
     <category term="Storage Service" scheme="https://blog.epoch.tw/tags/Storage-Service/"/>
+    
+    <category term="Terraform" scheme="https://blog.epoch.tw/tags/Terraform/"/>
     
   </entry>
   
@@ -7577,7 +7577,7 @@
     <link href="https://blog.epoch.tw/2021/10/%E4%BD%BF%E7%94%A8-AWS-Amplify-%E6%9C%8D%E5%8B%99%E9%83%A8%E7%BD%B2-Vue-%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/"/>
     <id>https://blog.epoch.tw/2021/10/%E4%BD%BF%E7%94%A8-AWS-Amplify-%E6%9C%8D%E5%8B%99%E9%83%A8%E7%BD%B2-Vue-%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/</id>
     <published>2021-10-04T07:33:21.000Z</published>
-    <updated>2022-10-06T17:28:55.684Z</updated>
+    <updated>2023-04-19T06:38:48.723Z</updated>
     
     
       
@@ -16276,9 +16276,9 @@
     
     <category term="Laravel" scheme="https://blog.epoch.tw/tags/Laravel/"/>
     
-    <category term="Xdebug" scheme="https://blog.epoch.tw/tags/Xdebug/"/>
-    
     <category term="macOS" scheme="https://blog.epoch.tw/tags/macOS/"/>
+    
+    <category term="Xdebug" scheme="https://blog.epoch.tw/tags/Xdebug/"/>
     
   </entry>
   
